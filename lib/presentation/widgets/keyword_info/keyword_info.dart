@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mtg/domain/keyword/keyword.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class KeywordInfo extends StatelessWidget {
   final Keyword keyword;
@@ -8,6 +9,13 @@ class KeywordInfo extends StatelessWidget {
     super.key,
     required this.keyword,
   });
+
+  Future<void> _launchUrl(String urlText) async {
+    final Uri url = Uri.parse(urlText);
+    if (!await launchUrl(url)) {
+      throw Exception('No se pudo lanzar $url');
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -27,7 +35,7 @@ class KeywordInfo extends StatelessWidget {
             ),
             const Divider(),
             Text(
-              "${keyword.keyword} / ${keyword.keywordEs}",
+              keyword.keyword,
               style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: colors.primary),
             ),
             const SizedBox(height: 8),
@@ -36,28 +44,18 @@ class KeywordInfo extends StatelessWidget {
               style: const TextStyle(fontSize: 16),
             ),
             const SizedBox(height: 8),
-            if (keyword.details != null && keyword.details!.isNotEmpty) ...[
-              const Text("📌 Details:", style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
-              ...keyword.details!.map((detail) => Text("• $detail")),
-            ],
-            // const SizedBox(height: 8),
-            // if (keyword.exampleCard != null) ...[
-            //   Text("🎴 Example Card: ${keyword.exampleCard}", style: const TextStyle(fontSize: 16)),
-            // ],
-            const SizedBox(height: 12),
-            Text(
-              "📖 Definición: ${keyword.definitionEs}",
-              style: const TextStyle(fontSize: 16),
+            GestureDetector(
+              onTap: () => _launchUrl(keyword.url),
+              child: const Text(
+                '🔗 More Info',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.blue,
+                  decoration: TextDecoration.underline,
+                ),
+              ),
             ),
             const SizedBox(height: 8),
-            if (keyword.detailsEs != null && keyword.detailsEs!.isNotEmpty) ...[
-              const Text("📌 Detalles:", style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
-              ...keyword.detailsEs!.map((detailEs) => Text("• $detailEs")),
-            ],
-            const SizedBox(height: 8),
-            // if (keyword.exampleCardEs != null) ...[
-            //   Text("🎴 Carta Ejemplo: ${keyword.exampleCardEs}", style: const TextStyle(fontSize: 16)),
-            // ],
           ],
         ),
       ),

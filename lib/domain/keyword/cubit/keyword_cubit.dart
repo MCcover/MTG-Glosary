@@ -38,19 +38,17 @@ class KeywordCubit extends Cubit<KeywordState> {
   }
 
   Future<void> getAllKeywords() async {
-    final String response = await rootBundle.loadString('assets/jsons/keywords_en_es.json');
-    final Map<String, dynamic> jsonData = jsonDecode(response);
+    final String response = await rootBundle.loadString('assets/jsons/keywords.json');
+    final List<dynamic> jsonData = jsonDecode(response);
 
     List<Keyword> keywords = [];
 
-    jsonData.forEach(
-      (tipo, lista) {
-        for (var item in lista) {
-          var keyword = Keyword.fromJson(item, tipo);
-          keywords.add(keyword);
-        }
-      },
-    );
+    for (var item in jsonData) {
+      var keyword = Keyword.fromJson(item);
+      keywords.add(keyword);
+    }
+
+    keywords.sort((a, b) => a.keyword.compareTo(b.keyword));
 
     emit(
       state.copyWith(

@@ -1,0 +1,2000 @@
+[
+  {
+    "keyword": "Battle Cry",
+    "category": "keyword_ability",
+    "definition": "Gives a +1/+0 bonus to each other attacking creature",
+    "url": "https://mtg.fandom.com/wiki/Battle_cry"
+  },
+  {
+    "keyword": "Level Up",
+    "category": "keyword_ability",
+    "definition": "Put a level counter on this. Level up only as a sorcery",
+    "url": "https://mtg.fandom.com/wiki/Level_up"
+  },
+  {
+    "keyword": "Read Ahead",
+    "category": "keyword_ability",
+    "definition": "Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don’t trigger. Sacrifice after III",
+    "url": "https://mtg.fandom.com/wiki/Read_ahead"
+  },
+  {
+    "keyword": "Slivercycling",
+    "category": "keyword_ability",
+    "definition": "Search your library for a Sliver card, reveal it, put it into your hand, then shuffle",
+    "url": null
+  },
+  {
+    "keyword": "Firebending",
+    "category": "keyword_ability",
+    "definition": "Whenever this creature attacks, add X . This mana lasts until end of combat",
+    "url": "https://draftsim.com/mtg-firebending/"
+  },
+  {
+    "keyword": "Mobilize",
+    "category": "keyword_ability",
+    "definition": "Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step",
+    "url": "https://mtga.untapped.gg/codex/mechanics/mobilize"
+  },
+  {
+    "keyword": "Job select",
+    "category": "keyword_ability",
+    "definition": "When an equipment with the Job Select enters the battlefield, you create a 1/1 colorless hero creature token and immediately attach that equipment to that token",
+    "url": "https://draftsim.com/mtg-job-select/"
+  },
+  {
+    "keyword": "Web-slinging",
+    "category": "keyword_ability",
+    "definition": "Lets you cast a card for its web-slinging cost, as long as you bounce a tapped creature you control back to its owner's hand",
+    "url": "https://draftsim.com/mtg-web-slinging/"
+  },
+  {
+    "keyword": "Harmonize",
+    "category": "keyword_ability",
+    "definition": "You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.",
+    "url": null
+  },
+  {
+    "keyword": "Warp",
+    "category": "keyword_ability",
+    "definition": "You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.",
+    "url": null
+  },
+  {
+    "keyword": "Station",
+    "category": "keyword_ability",
+    "definition": "When you control a permanent with station, you can activate its station ability by tapping an untapped creature you control to add charge counters equal to its power to the stationed permanent. You can only do this as a sorcery",
+    "url": "https://draftsim.com/mtg-station/"
+  },
+  {
+    "keyword": "Endure",
+    "category": "keyword_action",
+    "definition": "Put N +1/+1 counters on this creature or create an N/N white Spirit creature token",
+    "url": "https://draftsim.com/mtg-endure/"
+  },
+  {
+    "keyword": "Waterbend",
+    "category": "keyword_action",
+    "definition": "While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for 1.",
+    "url": "https://draftsim.com/mtg-waterbending/"
+  },
+  {
+    "keyword": "Airbend",
+    "category": "keyword_action",
+    "definition": "Exile it. While it's exiled, its owner may cast it for 2 rather than its mana cost",
+    "url": null
+  },
+  {
+    "keyword": "Earthbend",
+    "category": "keyword_action",
+    "definition": "target land you control becomes a 0/0 creature with haste that’s still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.",
+    "url": "https://draftsim.com/mtg-earthbending/"
+  },
+  {
+    "keyword": "Living weapon",
+    "category": "keyword_ability",
+    "definition": "Living weapon is a keyword ability for equipment cards introduced in Mirrodin Besieged. It was reused in New Phyrexia, the Commander series, Modern Horizons 2, and Modern Horizons 3. The idea was later adapted for Phyrexia: All Will Be One, yielding a similar keyword ability For Mirrodin!.",
+    "url": "https://mtg.fandom.com/wiki/Living_weapon"
+  },
+  {
+    "keyword": "Jump-start",
+    "category": "keyword_ability",
+    "definition": "Jump-start is a keyword ability on instants and sorceries that allows the player to cast a spell from their graveyard for the additional cost of discarding a card. It was introduced in Guilds of Ravnica for the Izzet League of Ravnica. The spell card is exiled when it leaves the stack.",
+    "url": "https://mtg.fandom.com/wiki/Jump-start"
+  },
+  {
+    "keyword": "Commander ninjutsu",
+    "category": "keyword_ability",
+    "definition": "Ninjutsu (NIN-joot-soo) is a keyword ability designed by Mark Rosewater that was introduced in Betrayers of Kamigawa. It is exclusive to Ninja creatures.",
+    "url": "https://mtg.fandom.com/wiki/Commander_ninjutsu"
+  },
+  {
+    "keyword": "Megamorph",
+    "category": "keyword_ability",
+    "definition": "Morph is a keyword ability on permanents that allows the player to pay to cast a card with the ability face down as a 2/2 colorless, typeless creature. The player can then turn that creature face-up at any time they could cast an instant by paying a variable Morph cost printed on each card. Many permanents with morph have additional triggered abilities that trigger when they are turned face-up (see Bane of the Living), and some other permanents trigger when a different card is turned face up. Morphing doesn't use the stack.",
+    "url": "https://mtg.fandom.com/wiki/Megamorph"
+  },
+  {
+    "keyword": "Haunt",
+    "category": "keyword_ability",
+    "definition": "Haunt is a keyword ability associated with the Orzhov guild from the Guildpact set.",
+    "url": "https://mtg.fandom.com/wiki/Haunt"
+  },
+  {
+    "keyword": "Forecast",
+    "category": "keyword_ability",
+    "definition": "Forecast is a keyword ability of cards from the Azorius guild in Dissension. It was designed by Mark Rosewater.",
+    "url": "https://mtg.fandom.com/wiki/Forecast"
+  },
+  {
+    "keyword": "Graft",
+    "category": "keyword_ability",
+    "definition": "Graft is a keyword ability, introduced in Dissension expansion, that is associated with the Simic guild, and works by allowing a creature with graft to move a +1/+1 counter from itself onto a creature that just entered the battlefield. Thus far, only creatures that are aligned with the Simic guild (green and/or blue) have graft. The only non-creature card with graft is Llanowar Reborn from Future Sight.",
+    "url": "https://mtg.fandom.com/wiki/Graft"
+  },
+  {
+    "keyword": "Fortify",
+    "category": "keyword_ability",
+    "definition": "Fortify is a keyword ability that appears on Fortifications. It functions the same as equip, except that it targets a land instead of a creature.",
+    "url": "https://mtg.fandom.com/wiki/Fortify"
+  },
+  {
+    "keyword": "Frenzy",
+    "category": "keyword_ability",
+    "definition": "Frenzy is a triggered keyword ability that was first featured in Future Sight.",
+    "url": "https://mtg.fandom.com/wiki/Frenzy"
+  },
+  {
+    "keyword": "Gravestorm",
+    "category": "keyword_ability",
+    "definition": "Gravestorm is a triggered keyword ability. It's similar to storm, except that instead of counting the number of spells cast that turn, it counts the number of permanents put into a graveyard from the battlefield that turn.",
+    "url": "https://mtg.fandom.com/wiki/Gravestorm"
+  },
+  {
+    "keyword": "Hideaway",
+    "category": "keyword_ability",
+    "definition": "Hideaway is a keyword ability created by Aaron Forsythe that gives special access to a card from the library when linked with a second ability. It was featured in Lorwyn, but only on a rare cycle of cards. After a single card revisit during Modern Horizons, it got a full revisit in Streets of New Capenna.",
+    "url": "https://mtg.fandom.com/wiki/Hideaway"
+  },
+  {
+    "keyword": "Infect",
+    "category": "keyword_ability",
+    "definition": "Infect is a keyword ability that was introduced in Scars of Mirrodin.",
+    "url": "https://mtg.fandom.com/wiki/Infect"
+  },
+  {
+    "keyword": "Reach",
+    "category": "keyword_ability",
+    "definition": "Reach is an evergreen keyword ability that replaces the \"[This creature] can block as though it had flying\" ability seen on creatures such as Giant Spider.",
+    "url": "https://mtg.fandom.com/wiki/Reach"
+  },
+  {
+    "keyword": "Rampage",
+    "category": "keyword_ability",
+    "definition": "Rampage is a keyword ability that gives an attacking creature a bonus to its power and toughness when it is blocked by more than one creature.",
+    "url": "https://mtg.fandom.com/wiki/Rampage"
+  },
+  {
+    "keyword": "Phasing",
+    "category": "keyword_ability",
+    "definition": "Phasing is a mechanic where permanents may phase out, causing them to be treated as if they don't exist until they automatically phase back in on their next untap step. This can be a protective action, or a means to temporarily disable an opponent's permanents. Phasing is primary in blue and secondary in white. Unlike similar concepts like flickering, a phased-out permanent remains the same object, and so retains counters, attachments, and choices made during the \"life\" of the object.",
+    "url": "https://mtg.fandom.com/wiki/Phasing"
+  },
+  {
+    "keyword": "Multikicker",
+    "category": "keyword_ability",
+    "definition": "Kicker is a keyword ability that allows the player to pay an optional cost when casting a spell to achieve an additional effect.",
+    "url": "https://mtg.fandom.com/wiki/Multikicker"
+  },
+  {
+    "keyword": "Morph",
+    "category": "keyword_ability",
+    "definition": "Morph is a keyword ability on permanents that allows the player to pay to cast a card with the ability face down as a 2/2 colorless, typeless creature. The player can then turn that creature face-up at any time they could cast an instant by paying a variable Morph cost printed on each card. Many permanents with morph have additional triggered abilities that trigger when they are turned face-up (see Bane of the Living), and some other permanents trigger when a different card is turned face up. Morphing doesn't use the stack.",
+    "url": "https://mtg.fandom.com/wiki/Morph"
+  },
+  {
+    "keyword": "Provoke",
+    "category": "keyword_ability",
+    "definition": "Provoke is a keyword ability on creatures that allows a player to, during their declare attackers step, untap a creature the defending player controls and require that creature to block the attacking creature with provoke. The block must still be legal, e.g. a non-flying creature cannot block a flying creature even when Provoke is used on it.",
+    "url": "https://mtg.fandom.com/wiki/Provoke"
+  },
+  {
+    "keyword": "Modular",
+    "category": "keyword_ability",
+    "definition": "Modular is a keyword ability that causes a permanent to enter the battlefield with +1/+1 counters equal to the Modular number. When that permanent dies, its controller may put a +1/+1 counter onto an artifact creature for each +1/+1 counter the permanent had on it when it died.",
+    "url": "https://mtg.fandom.com/wiki/Modular"
+  },
+  {
+    "keyword": "Ninjutsu",
+    "category": "keyword_ability",
+    "definition": "Ninjutsu (NIN-joot-soo) is a keyword ability designed by Mark Rosewater that was introduced in Betrayers of Kamigawa. It is exclusive to Ninja creatures.",
+    "url": "https://mtg.fandom.com/wiki/Ninjutsu"
+  },
+  {
+    "keyword": "Replicate",
+    "category": "keyword_ability",
+    "definition": "Replicate is a keyword ability attributed to the Izzet in the Guildpact set of the Ravnica block.",
+    "url": "https://mtg.fandom.com/wiki/Replicate"
+  },
+  {
+    "keyword": "Recover",
+    "category": "keyword_ability",
+    "definition": "Recover is a keyword ability that debuted in Coldsnap. It allows a player to return cards with the ability to their hand by paying the card's Recover cost when a creature next goes into their graveyard from the battlefield. However, if they do not pay the Recover cost then the card is instead exiled.",
+    "url": "https://mtg.fandom.com/wiki/Recover"
+  },
+  {
+    "keyword": "Poisonous",
+    "category": "keyword_ability",
+    "definition": "Poisonous is a keyword ability that allows the use of multiple poison counters. It was introduced in Future Sight but was first designed for Tempest.",
+    "url": "https://mtg.fandom.com/wiki/Poisonous"
+  },
+  {
+    "keyword": "Reinforce",
+    "category": "keyword_ability",
+    "definition": "Reinforce is an activated keyword ability that functions only while the card with reinforce is in a player's hand. It was introduced in Morningtide.",
+    "url": "https://mtg.fandom.com/wiki/Reinforce"
+  },
+  {
+    "keyword": "Persist",
+    "category": "keyword_ability",
+    "definition": "Persist is a keyword ability introduced in Shadowmoor.",
+    "url": "https://mtg.fandom.com/wiki/Persist"
+  },
+  {
+    "keyword": "Retrace",
+    "category": "keyword_ability",
+    "definition": "Retrace is a keyword ability that allows the player to cast the card from their graveyard for its mana cost plus the additional cost of discarding a land. All spells with the native ability Retrace are instants or sorceries.",
+    "url": "https://mtg.fandom.com/wiki/Retrace"
+  },
+  {
+    "keyword": "Rebound",
+    "category": "keyword_ability",
+    "definition": "Rebound is a keyword ability introduced in Rise of the Eldrazi which appears on instants and sorceries, allowing them to be replayed a second time for free on the caster's next turn. It returned in Dragons of Tarkir.",
+    "url": "https://mtg.fandom.com/wiki/Rebound"
+  },
+  {
+    "keyword": "Miracle",
+    "category": "keyword_ability",
+    "definition": "Radiant spokes in the upper half of the card indicate it uses the Miracle keyword",
+    "url": "https://mtg.fandom.com/wiki/Miracle"
+  },
+  {
+    "keyword": "Overload",
+    "category": "keyword_ability",
+    "definition": "Overload is a keyword ability that was introduced in Return to Ravnica as the mechanic for the Izzet guild.",
+    "url": "https://mtg.fandom.com/wiki/Overload"
+  },
+  {
+    "keyword": "Outlast",
+    "category": "keyword_ability",
+    "definition": "Outlast is a keyworded activated ability that was introduced as the clan-specific mechanic for the Abzan Houses in Khans of Tarkir.",
+    "url": "https://mtg.fandom.com/wiki/Outlast"
+  },
+  {
+    "keyword": "Prowess",
+    "category": "keyword_ability",
+    "definition": "Prowess is a keyword ability that was introduced as the clan-specific mechanic for the Jeskai Way in Khans of Tarkir and Fate Reforged. Creatures with prowess get +1/+1 until end of turn whenever a noncreature spell is cast by their controller.",
+    "url": "https://mtg.fandom.com/wiki/Prowess"
+  },
+  {
+    "keyword": "Renown",
+    "category": "keyword_ability",
+    "definition": "Renown is an keyword ability introduced in Magic Origins. Creatures with the renown keyword become renowned and gain N +1/+1 counters the first time they deal combat damage to a player.",
+    "url": "https://mtg.fandom.com/wiki/Renown"
+  },
+  {
+    "keyword": "Myriad",
+    "category": "keyword_ability",
+    "definition": "Myriad is a triggered keyword ability introduced in Commander 2015. By way of token copies, it enables a creature to be used to attack multiple players at once.",
+    "url": "https://mtg.fandom.com/wiki/Myriad"
+  },
+  {
+    "keyword": "Shroud",
+    "category": "keyword_ability",
+    "definition": "Shroud is a keyword ability that prevents a permanent or player from being the target of spells or abilities.",
+    "url": "https://mtg.fandom.com/wiki/Shroud"
+  },
+  {
+    "keyword": "Trample",
+    "category": "keyword_ability",
+    "definition": "Trample is a keyword ability that changes the rules for assigning damage in the Combat Damage Step.",
+    "url": "https://mtg.fandom.com/wiki/Trample"
+  },
+  {
+    "keyword": "Vigilance",
+    "category": "keyword_ability",
+    "definition": "Vigilance is a keyword ability on creatures that allows the creature to attack without tapping.",
+    "url": "https://mtg.fandom.com/wiki/Vigilance"
+  },
+  {
+    "keyword": "Storm",
+    "category": "keyword_ability",
+    "definition": "Storm is a keyword ability that creates a copy of the spell when it's cast, for each spell cast before it in the current turn. It can become extremely powerful in decks that can arrange for many cheap spells to be cast in a turn. Storm is well known as the namesake of the Storm Scale, which measures the unlikelihood of a mechanic returning to the Standard format, because it is considered one of the most broken mechanics ever.",
+    "url": "https://mtg.fandom.com/wiki/Storm"
+  },
+  {
+    "keyword": "Soulshift",
+    "category": "keyword_ability",
+    "definition": "Soulshift is a triggered ability on some Spirit creatures found in Kamigawa block. The ability allows a player to return a Spirit card of mana value no greater than the Soulshift number from their graveyard to their hand when the Soulshift creature dies. With the exception of Promised Kannushi, a Human Druid, all Soulshift cards have a mana value one greater than their Soulshift number.",
+    "url": "https://mtg.fandom.com/wiki/Soulshift"
+  },
+  {
+    "keyword": "Splice",
+    "category": "keyword_ability",
+    "definition": "Splice onto [quality] is a keyword ability that was introduced on certain arcane instants from the Kamigawa block.",
+    "url": "https://mtg.fandom.com/wiki/Splice"
+  },
+  {
+    "keyword": "Transmute",
+    "category": "keyword_ability",
+    "definition": "Transmute is the keyword ability of cards in Ravnica block aligned with the Dimir guild.",
+    "url": "https://mtg.fandom.com/wiki/Transmute"
+  },
+  {
+    "keyword": "Ripple",
+    "category": "keyword_ability",
+    "definition": "Ripple is a triggered ability that first appeared in Coldsnap. It so far has appeared on two instants, a sorcery, an aura and a creature, as well as being given to all spells you control by the artifact Thrumming Stone.",
+    "url": "https://mtg.fandom.com/wiki/Ripple"
+  },
+  {
+    "keyword": "Suspend",
+    "category": "keyword_ability",
+    "definition": "Suspend is a keyword ability that debuted in Time Spiral.",
+    "url": "https://mtg.fandom.com/wiki/Suspend"
+  },
+  {
+    "keyword": "Vanishing",
+    "category": "keyword_ability",
+    "definition": "Vanishing is a keyword ability that limits the number of turns a permanent can remain on the battlefield, using time as a resource. It was introduced in the Time Spiral block, serving as an update to the earlier fading ability with more intuitive mechanics. It can be considered an inversion of the suspend ability.",
+    "url": "https://mtg.fandom.com/wiki/Vanishing"
+  },
+  {
+    "keyword": "Transfigure",
+    "category": "keyword_ability",
+    "definition": "Transfigure is a keyword ability, similar to transmute from Ravnica: City of Guilds, though it's playable only if the permanent with transfigure is on the battlefield, and it can fetch only a creature. Transfigure was introduced in Future Sight. It has only been printed on one card so far, the timeshifted Fleshwrither. According to Mark Rosewater, it is unlikely to be reused.",
+    "url": "https://mtg.fandom.com/wiki/Transfigure"
+  },
+  {
+    "keyword": "Wither",
+    "category": "keyword_ability",
+    "definition": "Wither is a keyword ability introduced in Shadowmoor. It was also featured in Eventide.",
+    "url": "https://mtg.fandom.com/wiki/Wither"
+  },
+  {
+    "keyword": "Undying",
+    "category": "keyword_ability",
+    "definition": "Undying is a keyword triggered ability introduced in Dark Ascension.",
+    "url": "https://mtg.fandom.com/wiki/Undying"
+  },
+  {
+    "keyword": "Soulbond",
+    "category": "keyword_ability",
+    "definition": "Soulbond is a keyword mechanic introduced in Avacyn Restored. Soulbond pairs up your creatures with each other.",
+    "url": "https://mtg.fandom.com/wiki/Soulbond"
+  },
+  {
+    "keyword": "Unleash",
+    "category": "keyword_ability",
+    "definition": "Unleash is a keyword ability that was introduced in Return to Ravnica as the mechanic for the Rakdos guild.",
+    "url": "https://mtg.fandom.com/wiki/Unleash"
+  },
+  {
+    "keyword": "Ascend",
+    "category": "keyword_ability",
+    "definition": "Ascend is a keyword ability that makes you get the city's blessing for the rest of the game if you achieve to control 10 or more permanents. It was introduced in Rivals of Ixalan, and is primary in white, blue, and black.",
+    "url": "https://mtg.fandom.com/wiki/Ascend"
+  },
+  {
+    "keyword": "Assist",
+    "category": "keyword_ability",
+    "definition": "Assist is a keyword ability introduced in Battlebond that lets other players (normally your teammates) help you to cast spells. The helping player may pay up to the total generic mana part of the casting cost. The assist mechanic was designed by Gavin Verhey.",
+    "url": "https://mtg.fandom.com/wiki/Assist"
+  },
+  {
+    "keyword": "Afterlife",
+    "category": "keyword_ability",
+    "definition": "Afterlife is a keyword ability found on creatures. Similar to Doomed Traveler from Innistrad, and potentially named after Afterlife, it was introduced as a mechanic in Ravnica Allegiance for the Orzhov Syndicate.",
+    "url": "https://mtg.fandom.com/wiki/Afterlife"
+  },
+  {
+    "keyword": "Companion",
+    "category": "keyword_ability",
+    "definition": "Companion is a keyword ability featured in Ikoria: Lair of Behemoths, and the name for creatures with this keyword ability. There are ten legendary companions in Ikoria.",
+    "url": "https://mtg.fandom.com/wiki/Companion"
+  },
+  {
+    "keyword": "Fabricate",
+    "category": "keyword_ability",
+    "definition": "Fabricate is a keyword ability introduced in Kaladesh.",
+    "url": "https://mtg.fandom.com/wiki/Fabricate"
+  },
+  {
+    "keyword": "Embalm",
+    "category": "keyword_ability",
+    "definition": "Embalm is a keyword ability introduced in Amonkhet. Embalm is centered in white and blue.",
+    "url": "https://mtg.fandom.com/wiki/Embalm"
+  },
+  {
+    "keyword": "Escape",
+    "category": "keyword_ability",
+    "definition": "Escape is a keyword ability introduced in Theros Beyond Death, where it is connected to the Returned escaping from Nyx. Spells with escape can be cast from the graveyard for their escape cost. The cost includes exiling a number of other cards from the graveyard. If a creature escapes, it may receive an additional bonus.",
+    "url": "https://mtg.fandom.com/wiki/Escape"
+  },
+  {
+    "keyword": "Fuse",
+    "category": "keyword_ability",
+    "definition": "Fuse is a keyword featured on split cards from Dragon's Maze.",
+    "url": "https://mtg.fandom.com/wiki/Fuse"
+  },
+  {
+    "keyword": "Menace",
+    "category": "keyword_ability",
+    "definition": "Menace is an evergreen keyword ability. Creatures with menace can't be blocked except by two or more creatures.",
+    "url": "https://mtg.fandom.com/wiki/Menace"
+  },
+  {
+    "keyword": "Ingest",
+    "category": "keyword_ability",
+    "definition": "Ingest is a keyword ability that triggers when a creature with ingest deals combat damage to a player. That player exiles the top card of their library.",
+    "url": "https://mtg.fandom.com/wiki/Ingest"
+  },
+  {
+    "keyword": "Melee",
+    "category": "keyword_ability",
+    "definition": "Melee is a triggered keyword ability that makes creatures bigger if they attack.",
+    "url": "https://mtg.fandom.com/wiki/Melee"
+  },
+  {
+    "keyword": "Improvise",
+    "category": "keyword_ability",
+    "definition": "Improvise is a keyword ability introduced in Aether Revolt.",
+    "url": "https://mtg.fandom.com/wiki/Improvise"
+  },
+  {
+    "keyword": "Mentor",
+    "category": "keyword_ability",
+    "definition": "Mentor is a keyword ability introduced in Guilds of Ravnica for the Boros Legion of Ravnica.",
+    "url": "https://mtg.fandom.com/wiki/Mentor"
+  },
+  {
+    "keyword": "Partner",
+    "category": "keyword_ability",
+    "definition": "Partner is a keyword ability specifically used in the Commander format. Partner was introduced in Commander 2016. The Partner with variation allows only a specified other card to be the partner, but also allows a player such as a Two-Headed Giant teammate to tutor for the other card.",
+    "url": "https://mtg.fandom.com/wiki/Partner"
+  },
+  {
+    "keyword": "Mutate",
+    "category": "keyword_ability",
+    "definition": "Mutate is a keyword ability that is featured in Ikoria: Lair of Behemoths. It allows two or more permanents to merge.",
+    "url": "https://mtg.fandom.com/wiki/Mutate"
+  },
+  {
+    "keyword": "Tribute",
+    "category": "keyword_ability",
+    "definition": "Tribute is a static ability found on creatures that was featured in Born of the Gods. It gives opponents an unfortunate choice: have the creature grow in size, or allow a powerful enters-the-battlefield ability to trigger.",
+    "url": "https://mtg.fandom.com/wiki/Tribute"
+  },
+  {
+    "keyword": "Surge",
+    "category": "keyword_ability",
+    "definition": "Surge is a keyword ability introduced in Oath of the Gatewatch that provides an alternative cost that if the spell is set up with another spell.",
+    "url": "https://mtg.fandom.com/wiki/Surge"
+  },
+  {
+    "keyword": "Skulk",
+    "category": "keyword_ability",
+    "definition": "Skulk is an evasion ability introduced in Shadows over Innistrad.",
+    "url": "https://mtg.fandom.com/wiki/Skulk"
+  },
+  {
+    "keyword": "Undaunted",
+    "category": "keyword_ability",
+    "definition": "Undaunted is a keyword ability introduced in Commander 2016. A spell with Undaunted costs less to cast for each opponent.",
+    "url": "https://mtg.fandom.com/wiki/Undaunted"
+  },
+  {
+    "keyword": "Riot",
+    "category": "keyword_ability",
+    "definition": "Riot is a keyword ability, which allows you to choose between gaining a +1/+1 counter or haste when a creature enters the battlefield. It was introduced in Ravnica Allegiance for the Gruul Clans of Ravnica.",
+    "url": "https://mtg.fandom.com/wiki/Riot"
+  },
+  {
+    "keyword": "Spectacle",
+    "category": "keyword_ability",
+    "definition": "Spectacle is a keyword ability that gives spells an alternative cost. You can cast a spell for its spectacle cost if an opponent lost life during the turn. It was introduced in Ravnica Allegiance for the Cult of Rakdos of Ravnica.",
+    "url": "https://mtg.fandom.com/wiki/Spectacle"
+  },
+  {
+    "keyword": "Forestwalk",
+    "category": "keyword_ability",
+    "definition": "Landwalk is a former evergreen keyword ability on creatures that makes the creature unblockable if the defending player controls at least one land with a certain characteristic.",
+    "url": "https://mtg.fandom.com/wiki/Forestwalk"
+  },
+  {
+    "keyword": "Landwalk",
+    "category": "keyword_ability",
+    "definition": "Landwalk is a former evergreen keyword ability on creatures that makes the creature unblockable if the defending player controls at least one land with a certain characteristic.",
+    "url": "https://mtg.fandom.com/wiki/Islandwalk"
+  },
+  {
+    "keyword": "Mountainwalk",
+    "category": "keyword_ability",
+    "definition": "Landwalk is a former evergreen keyword ability on creatures that makes the creature unblockable if the defending player controls at least one land with a certain characteristic.",
+    "url": "https://mtg.fandom.com/wiki/Mountainwalk"
+  },
+  {
+    "keyword": "Double strike",
+    "category": "keyword_ability",
+    "definition": "Double strike is an evergreen keyword ability that allows a creature to deal combat damage twice per combat phase — once during the first combat damage step, along with any creatures that have first strike, and again during the second combat damage step along with creatures that have neither keyword.",
+    "url": "https://mtg.fandom.com/wiki/Double_strike"
+  },
+  {
+    "keyword": "Cumulative upkeep",
+    "category": "keyword_ability",
+    "definition": "Cumulative upkeep is a keyword ability on permanents that requires the permanent's controller to pay an increasing cost each turn, or else sacrifice that permanent. The cost is based on the number of age counters on the permanent.",
+    "url": "https://mtg.fandom.com/wiki/Cumulative_upkeep"
+  },
+  {
+    "keyword": "First strike",
+    "category": "keyword_ability",
+    "definition": "First strike is an evergreen keyword ability that changes the rules for combat by adding an additional combat damage step.",
+    "url": "https://mtg.fandom.com/wiki/First_strike"
+  },
+  {
+    "keyword": "Scavenge",
+    "category": "keyword_ability",
+    "definition": "Scavenge is a keyword ability that was introduced in Return to Ravnica as the mechanic for the Golgari guild. Dragon's Maze added 2 cards with scavenge. It basically reads as a variation on flashback that increases the stats of target creature.",
+    "url": "https://mtg.fandom.com/wiki/Scavenge"
+  },
+  {
+    "keyword": "Encore",
+    "category": "keyword_ability",
+    "definition": "Encore is a keyword ability specifically used in the Commander format. Encore was introduced in Commander Legends. It has similarities with unearth, flashback, and myriad.",
+    "url": "https://mtg.fandom.com/wiki/Encore"
+  },
+  {
+    "keyword": "Deathtouch",
+    "category": "keyword_ability",
+    "definition": "Deathtouch is a static ability that causes any amount of damage dealt by the source to a creature to be lethal damage.",
+    "url": "https://mtg.fandom.com/wiki/Deathtouch"
+  },
+  {
+    "keyword": "Defender",
+    "category": "keyword_ability",
+    "definition": "Defender is a static ability that renders a creature unable to attack.",
+    "url": "https://mtg.fandom.com/wiki/Defender"
+  },
+  {
+    "keyword": "Amplify",
+    "category": "keyword_ability",
+    "definition": "Amplify is a keyword ability on creatures that allows the player to reveal creature cards in their hand that share a creature type with the creature. The creature enters the battlefield with a number of +1/+1 counters for each such card revealed. Some creatures with amplify have additional abilities tied to the number of +1/+1 counters on them (see Kilnmouth Dragon).",
+    "url": "https://mtg.fandom.com/wiki/Amplify"
+  },
+  {
+    "keyword": "Affinity",
+    "category": "keyword_ability",
+    "definition": "Affinity is a keyword ability that reduces the mana cost of a spell by the number of permanents of a certain type that the player controls. It first appeared in the Mirrodin block.",
+    "url": "https://mtg.fandom.com/wiki/Affinity"
+  },
+  {
+    "keyword": "Bushido",
+    "category": "keyword_ability",
+    "definition": "Bushido (boo-SHEE-doh) is a triggered keyword ability that makes creatures bigger if they block or are blocked.",
+    "url": "https://mtg.fandom.com/wiki/Bushido"
+  },
+  {
+    "keyword": "Convoke",
+    "category": "keyword_ability",
+    "definition": "Convoke is a keyword ability first associated with the Selesnya guild from Ravnica: City of Guilds. The mechanic was originally devised by Richard Garfield.",
+    "url": "https://mtg.fandom.com/wiki/Convoke"
+  },
+  {
+    "keyword": "Bloodthirst",
+    "category": "keyword_ability",
+    "definition": "Bloodthirst is a keyword ability. It appeared in the Ravnica block as the ability associated with the Gruul guild of the Guildpact set, and later also appeared in Magic 2012.",
+    "url": "https://mtg.fandom.com/wiki/Bloodthirst"
+  },
+  {
+    "keyword": "Absorb",
+    "category": "keyword_ability",
+    "definition": "Absorb is a damage prevention keyword ability, written as Absorb N, where N is any natural number. It prevents N damage from each single source that deals damage to the creature.",
+    "url": "https://mtg.fandom.com/wiki/Absorb"
+  },
+  {
+    "keyword": "Aura Swap",
+    "category": "keyword_ability",
+    "definition": "Aura swap is a keyword ability. It lets you exchange an Aura that has it for an Aura in your hand.",
+    "url": "https://mtg.fandom.com/wiki/Aura_Swap"
+  },
+  {
+    "keyword": "Changeling",
+    "category": "keyword_ability",
+    "definition": "Changeling is a characteristic-defining keyword ability. It only appears on shapeshifter cards and grants those cards all creature types.",
+    "url": "https://mtg.fandom.com/wiki/Changeling"
+  },
+  {
+    "keyword": "Conspire",
+    "category": "keyword_ability",
+    "definition": "Conspire is a keyword ability introduced in Shadowmoor.",
+    "url": "https://mtg.fandom.com/wiki/Conspire"
+  },
+  {
+    "keyword": "Cascade",
+    "category": "keyword_ability",
+    "definition": "Cascade is a triggered ability that was introduced in Alara Reborn.",
+    "url": "https://mtg.fandom.com/wiki/Cascade"
+  },
+  {
+    "keyword": "Annihilator",
+    "category": "keyword_ability",
+    "definition": "Annihilator is a triggered ability introduced in Rise of the Eldrazi that appears on all the colorless Eldrazi creatures from that set.",
+    "url": "https://mtg.fandom.com/wiki/Annihilator"
+  },
+  {
+    "keyword": "Cipher",
+    "category": "keyword_ability",
+    "definition": "Cipher is a keyword introduced in Gatecrash, wherein it is the Dimir guild mechanic. It also appeared in Dragon's Maze. It was designed by Mark Rosewater.",
+    "url": "https://mtg.fandom.com/wiki/Cipher"
+  },
+  {
+    "keyword": "Bestow",
+    "category": "keyword_ability",
+    "definition": "Bestow is a keyword ability introduced in Theros, where it was connected to the god theme of the set. It allows one to cast certain enchantment creatures as Auras, granting (or \"bestowing\") upon the enchanted creature their power, toughness, and abilities.",
+    "url": "https://mtg.fandom.com/wiki/Bestow"
+  },
+  {
+    "keyword": "Dash",
+    "category": "keyword_ability",
+    "definition": "Dash is a keyword ability on permanents that allows the player to play the card for an alternative cost. When you pay its dash cost instead of paying its mana cost, the creature will have haste, so it can attack that turn. At the beginning of the next end step, you'll return the creature from the battlefield to its owner's hand.",
+    "url": "https://mtg.fandom.com/wiki/Dash"
+  },
+  {
+    "keyword": "Awaken",
+    "category": "keyword_ability",
+    "definition": "Awaken is a keyword ability that provides an alternative cost. If a spell is cast for its awaken cost, in addition to its other effects, it animates a land you control as a 0/0 Elemental creature with N +1/+1 counters on it.",
+    "url": "https://mtg.fandom.com/wiki/Awaken"
+  },
+  {
+    "keyword": "Crew",
+    "category": "keyword_ability",
+    "definition": "Crew is a keyword ability introduced in Kaladesh to enable the vehicle artifact subtype. It allows vehicles to become artifact creatures until end of turn.",
+    "url": "https://mtg.fandom.com/wiki/Crew"
+  },
+  {
+    "keyword": "Aftermath",
+    "category": "keyword_ability",
+    "definition": "Amonkhet split card with Aftermath",
+    "url": "https://mtg.fandom.com/wiki/Aftermath"
+  },
+  {
+    "keyword": "Afflict",
+    "category": "keyword_ability",
+    "definition": "Afflict is a keyword ability introduced in Hour of Devastation. Afflict is focused in red, and present in blue and black.",
+    "url": "https://mtg.fandom.com/wiki/Afflict"
+  },
+  {
+    "keyword": "Flanking",
+    "category": "keyword_ability",
+    "definition": "Flanking is a keyword ability that gives creatures that block a creature with flanking -1/-1, unless the blocker also has flanking.",
+    "url": "https://mtg.fandom.com/wiki/Flanking"
+  },
+  {
+    "keyword": "Foretell",
+    "category": "keyword_ability",
+    "definition": "Foretell is a keyword ability featured on cards in Kaldheim.",
+    "url": "https://mtg.fandom.com/wiki/Foretell"
+  },
+  {
+    "keyword": "Fading",
+    "category": "keyword_ability",
+    "definition": "Fading is a keyword ability that limits the number of turns a permanent is on the battlefield. The vanishing keyword ability was introduced later as a replacement, as some players found the mechanics of fading unintuitive. Unlike many other cards with time-related effects, fading does not use time counters.",
+    "url": "https://mtg.fandom.com/wiki/Fading"
+  },
+  {
+    "keyword": "Eternalize",
+    "category": "keyword_ability",
+    "definition": "Eternalize is a keyword ability introduced in Hour of Devastation. Eternalize is centered in white and blue, but shows up once in each of the other colors. Storywise, the mechanic is linked to the Eternals, Bolas's army of Zombie Warriors, mummified through the use of lazotep.",
+    "url": "https://mtg.fandom.com/wiki/Eternalize"
+  },
+  {
+    "keyword": "Entwine",
+    "category": "keyword_ability",
+    "definition": "Entwine is a keyword ability appearing on modal instants and sorceries; i.e., ones with the \"Choose one —\" clause.",
+    "url": "https://mtg.fandom.com/wiki/Entwine"
+  },
+  {
+    "keyword": "Epic",
+    "category": "keyword_ability",
+    "definition": "Epic is a keyword ability of five sorceries from Saviors of Kamigawa. In keeping with that block's legendary theme, its design is intended to provide an answer to the question \"What does it mean for an instant or sorcery to be legendary?\"",
+    "url": "https://mtg.fandom.com/wiki/Epic"
+  },
+  {
+    "keyword": "Dredge",
+    "category": "keyword_ability",
+    "definition": "Dredge is the keyword attributed to the Golgari in the Ravnica block.",
+    "url": "https://mtg.fandom.com/wiki/Dredge"
+  },
+  {
+    "keyword": "Delve",
+    "category": "keyword_ability",
+    "definition": "Delve is a keyword ability, introduced in Future Sight. Delve is a static ability that functions while the spell with delve is on the stack. “Delve” means “For each generic mana in this spell’s total cost, you may exile a card from your graveyard rather than pay that mana.”",
+    "url": "https://mtg.fandom.com/wiki/Delve"
+  },
+  {
+    "keyword": "Evoke",
+    "category": "keyword_ability",
+    "definition": "Evoke is a keyword ability that allows a player to pay an alternative cost for a creature spell that possesses this ability; however, if the evoke cost is paid, the creature is sacrificed when it enters the battlefield.",
+    "url": "https://mtg.fandom.com/wiki/Evoke"
+  },
+  {
+    "keyword": "Exalted",
+    "category": "keyword_ability",
+    "definition": "Exalted is a triggered ability first introduced in Shards of Alara and also featured in Conflux and Alara Reborn. Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn for each instance of exalted on the battlefield under your control.",
+    "url": "https://mtg.fandom.com/wiki/Exalted"
+  },
+  {
+    "keyword": "Evolve",
+    "category": "keyword_ability",
+    "definition": "Evolve is a keyword introduced in Gatecrash where it serves as the guild mechanic for the Simic Combine.",
+    "url": "https://mtg.fandom.com/wiki/Evolve"
+  },
+  {
+    "keyword": "Extort",
+    "category": "keyword_ability",
+    "definition": "Extort is a keyword introduced in Gatecrash, wherein it was the Orzhov Syndicate guild mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Extort"
+  },
+  {
+    "keyword": "Dethrone",
+    "category": "keyword_ability",
+    "definition": "Dethrone is a keyword first found in the multiplayer Conspiracy set.",
+    "url": "https://mtg.fandom.com/wiki/Dethrone"
+  },
+  {
+    "keyword": "Exploit",
+    "category": "keyword_ability",
+    "definition": "Exploit is a keyword ability introduced in Dragons of Tarkir, where it was the signature ability of the blue-black Clan Silumgar.",
+    "url": "https://mtg.fandom.com/wiki/Exploit"
+  },
+  {
+    "keyword": "Devoid",
+    "category": "keyword_ability",
+    "definition": "Devoid is a characteristic-defining keyword ability which states that a card is colorless, regardless of the colors in that card's mana cost.",
+    "url": "https://mtg.fandom.com/wiki/Devoid"
+  },
+  {
+    "keyword": "Emerge",
+    "category": "keyword_ability",
+    "definition": "Emerge is a keyword ability introduced in Eldritch Moon that provides an alternative cost for a spell which requires sacrificing a permanent.",
+    "url": "https://mtg.fandom.com/wiki/Emerge"
+  },
+  {
+    "keyword": "Escalate",
+    "category": "keyword_ability",
+    "definition": "Escalate is a keyword ability appearing on modal instants and sorceries, i.e. ones with the \"Choose one or more —\" clause. It was first featured in Eldritch Moon.",
+    "url": "https://mtg.fandom.com/wiki/Escalate"
+  },
+  {
+    "keyword": "Flying",
+    "category": "keyword_ability",
+    "definition": "Flying is an evergreen evasion ability that makes creatures without flying unable to block creatures with flying. It has been in Magic since the original Alpha set. It was the first and most resonant mechanic that Richard Garfield designed for the game.",
+    "url": "https://mtg.fandom.com/wiki/Flying"
+  },
+  {
+    "keyword": "Haste",
+    "category": "keyword_ability",
+    "definition": "Haste is a keyword ability that allows a creature to circumvent summoning sickness. Creatures with haste can attack or use activated abilities with the or symbol in the activation cost even if they have not been continuously controlled by a player since the beginning of that player's most recent turn.",
+    "url": "https://mtg.fandom.com/wiki/Haste"
+  },
+  {
+    "keyword": "Hexproof",
+    "category": "keyword_ability",
+    "definition": "Hexproof is an evergreen keyword ability that prevents a permanent or player from being the target of spells or abilities played by opponents.",
+    "url": "https://mtg.fandom.com/wiki/Hexproof"
+  },
+  {
+    "keyword": "Indestructible",
+    "category": "keyword_ability",
+    "definition": "Indestructible is an evergreen keyword ability. Indestructible permanents can't be destroyed by rules or effects.",
+    "url": "https://mtg.fandom.com/wiki/Indestructible"
+  },
+  {
+    "keyword": "Intimidate",
+    "category": "keyword_ability",
+    "definition": "Intimidate is a deprecated keyword ability. A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.",
+    "url": "https://mtg.fandom.com/wiki/Intimidate"
+  },
+  {
+    "keyword": "Lifelink",
+    "category": "keyword_ability",
+    "definition": "Lifelink is a keyword ability introduced in Future Sight. Damage dealt by a source with lifelink causes that source's controller to gain that much life.",
+    "url": "https://mtg.fandom.com/wiki/Lifelink"
+  },
+  {
+    "keyword": "Horsemanship",
+    "category": "keyword_ability",
+    "definition": "Horsemanship is a keyword ability on creatures that serves as an evasion ability. Attacking creatures with horsemanship cannot be blocked by creatures without horsemanship.",
+    "url": "https://mtg.fandom.com/wiki/Horsemanship"
+  },
+  {
+    "keyword": "Kicker",
+    "category": "keyword_ability",
+    "definition": "Kicker is a keyword ability that allows the player to pay an optional cost when casting a spell to achieve an additional effect.",
+    "url": "https://mtg.fandom.com/wiki/Kicker"
+  },
+  {
+    "keyword": "Madness",
+    "category": "keyword_ability",
+    "definition": "Madness is a keyword ability on spells that allows a player to cast that spell for an alternate cost if the card is discarded. It is primary in black and red, secondary in blue, and tertiary in white and green.",
+    "url": "https://mtg.fandom.com/wiki/Madness"
+  },
+  {
+    "keyword": "Swampwalk",
+    "category": "keyword_ability",
+    "definition": "Landwalk is a former evergreen keyword ability on creatures that makes the creature unblockable if the defending player controls at least one land with a certain characteristic.",
+    "url": "https://mtg.fandom.com/wiki/Swampwalk"
+  },
+  {
+    "keyword": "Craft",
+    "category": "keyword_ability",
+    "definition": "Craft is an ability word introduced in The Lost Caverns of Ixalan.",
+    "url": "https://mtg.fandom.com/wiki/Craft"
+  },
+  {
+    "keyword": "Plainswalk",
+    "category": "keyword_ability",
+    "definition": "Landwalk is a former evergreen keyword ability on creatures that makes the creature unblockable if the defending player controls at least one land with a certain characteristic.",
+    "url": "https://mtg.fandom.com/wiki/Plainswalk"
+  },
+  {
+    "keyword": "Split second",
+    "category": "keyword_ability",
+    "definition": "Split second is a keyword ability that was introduced in the Time Spiral block.",
+    "url": "https://mtg.fandom.com/wiki/Split_second"
+  },
+  {
+    "keyword": "Augment",
+    "category": "keyword_ability",
+    "definition": "Augment is a silver-bordered keyword ability featured in Unstable and Unsanctioned. It is closely related to the Host supertype. The cards with augment have their art one-sided to the right, leaving the right side without margin.",
+    "url": "https://mtg.fandom.com/wiki/Augment"
+  },
+  {
+    "keyword": "Double agenda",
+    "category": "keyword_ability",
+    "definition": "Hidden agenda is a keyword found on some Conspiracy cards in the multiplayer Conspiracy sets.",
+    "url": "https://mtg.fandom.com/wiki/Double_agenda"
+  },
+  {
+    "keyword": "Reconfigure",
+    "category": "keyword_ability",
+    "definition": "Reconfigure is a keyword ability found on artifact creatures with the subtype \"Equipment\". The first cards with reconfigure appeared in Kamigawa: Neon Dynasty.",
+    "url": "https://mtg.fandom.com/wiki/Reconfigure"
+  },
+  {
+    "keyword": "Ward",
+    "category": "keyword_ability",
+    "definition": "Ward is an evergreen keyword ability introduced in Strixhaven: School of Mages. Ward is a triggered ability.",
+    "url": "https://mtg.fandom.com/wiki/Ward"
+  },
+  {
+    "keyword": "Partner with",
+    "category": "keyword_ability",
+    "definition": "Partner is a keyword ability specifically used in the Commander format. Partner was introduced in Commander 2016. The Partner with variation allows only a specified other card to be the partner, but also allows a player such as a Two-Headed Giant teammate to tutor for the other card.",
+    "url": "https://mtg.fandom.com/wiki/Partner_with"
+  },
+  {
+    "keyword": "Daybound",
+    "category": "keyword_ability",
+    "definition": "Daybound and Nightbound are a pair of keywords introduced in Innistrad: Midnight Hunt and also used in Innistrad: Crimson Vow.",
+    "url": "https://mtg.fandom.com/wiki/Daybound"
+  },
+  {
+    "keyword": "Nightbound",
+    "category": "keyword_ability",
+    "definition": "Daybound and Nightbound are a pair of keywords introduced in Innistrad: Midnight Hunt and also used in Innistrad: Crimson Vow.",
+    "url": "https://mtg.fandom.com/wiki/Nightbound"
+  },
+  {
+    "keyword": "Decayed",
+    "category": "keyword_ability",
+    "definition": "Decayed is a keyword ability introduced in Innistrad: Midnight Hunt.",
+    "url": "https://mtg.fandom.com/wiki/Decayed"
+  },
+  {
+    "keyword": "Disturb",
+    "category": "keyword_ability",
+    "definition": "Disturb is a keyword ability introduced in Innistrad: Midnight Hunt, where it is connected to creatures resurrected in Spirit form. Disturb was also used in Innistrad: Crimson Vow.",
+    "url": "https://mtg.fandom.com/wiki/Disturb"
+  },
+  {
+    "keyword": "Squad",
+    "category": "keyword_ability",
+    "definition": "Squad is a mechanic that was introduced in the Warhammer 40,000 Commander Decks.",
+    "url": "https://mtg.fandom.com/wiki/Squad"
+  },
+  {
+    "keyword": "Enlist",
+    "category": "keyword_ability",
+    "definition": "Enlist is a keyword ability on creatures that allows the player to buff creatures. It can be considered a modern take on Banding and was introduced in Dominaria United.",
+    "url": "https://mtg.fandom.com/wiki/Enlist"
+  },
+  {
+    "keyword": "Ravenous",
+    "category": "keyword_ability",
+    "definition": "Ravenous is a mechanic introduced in Warhammer 40,000 Commander Decks.",
+    "url": "https://mtg.fandom.com/wiki/Ravenous"
+  },
+  {
+    "keyword": "Blitz",
+    "category": "keyword_ability",
+    "definition": "Blitz is a keyword ability introduced in Streets of New Capenna as the signature Riveteers mechanic. It is an alternative cost.",
+    "url": "https://mtg.fandom.com/wiki/Blitz"
+  },
+  {
+    "keyword": "Offering",
+    "category": "keyword_ability",
+    "definition": "Offering is a keyword ability that allows a player to sacrifice an appropriate permanent to cast a card with Offering as though it had flash and at reduced mana cost. It was introduced in Betrayers of Kamigawa in the five card \"Patron\" cycle. It reappeared in The Brothers' War commander decks as a one-off, over seventeen years after its last appearance.",
+    "url": "https://mtg.fandom.com/wiki/Offering"
+  },
+  {
+    "keyword": "Living metal",
+    "category": "keyword_ability",
+    "definition": "Living metal is a static ability. It only appears on the Vehicle face of Transformers cards and allows those cards to attack without requiring them to be crewed.",
+    "url": "https://mtg.fandom.com/wiki/Living_metal"
+  },
+  {
+    "keyword": "Backup",
+    "category": "keyword_ability",
+    "definition": "Backup is a keyword ability introduced in March of the Machine.",
+    "url": "https://mtg.fandom.com/wiki/Backup"
+  },
+  {
+    "keyword": "Banding",
+    "category": "keyword_ability",
+    "definition": "Banding is a keyword ability that lets a player form bands from their creatures and during combat takes the right to distribute damage from the opponent. It also changes the rules for attacking and blocking if a band is formed. It was introduced in Alpha, and is no longer used on regular cards.",
+    "url": "https://mtg.fandom.com/wiki/Banding"
+  },
+  {
+    "keyword": "Hidden agenda",
+    "category": "keyword_ability",
+    "definition": "Hidden agenda is a keyword found on some Conspiracy cards in the multiplayer Conspiracy sets.",
+    "url": "https://mtg.fandom.com/wiki/Hidden_agenda"
+  },
+  {
+    "keyword": "For Mirrodin!",
+    "category": "keyword_ability",
+    "definition": "For Mirrodin! is a keyword ability for equipment cards introduced in Phyrexia: All Will Be One. It is the Mirran equivalent of Living weapon.",
+    "url": "https://mtg.fandom.com/wiki/For_Mirrodin!"
+  },
+  {
+    "keyword": "Friends forever",
+    "category": "keyword_ability",
+    "definition": "Friends forever is a keyword ability specifically used in the Commander format. Friends forever was introduced in Secret Lair Drop Series: Stranger Things and is a renamed Partner.",
+    "url": "https://mtg.fandom.com/wiki/Friends_forever"
+  },
+  {
+    "keyword": "Casualty",
+    "category": "keyword_ability",
+    "definition": "Casualty is a keyword ability introduced in Streets of New Capenna as the signature Maestros mechanic. Casualty is an optional additional cost.",
+    "url": "https://mtg.fandom.com/wiki/Casualty"
+  },
+  {
+    "keyword": "Protection",
+    "category": "keyword_ability",
+    "definition": "Protection from [quality] is a deciduous keyword ability that grants several different effects to the permanent or player it is affecting. The definition of protection, and the rules backing it, have changed over the course of the game's history.",
+    "url": "https://mtg.fandom.com/wiki/Protection"
+  },
+  {
+    "keyword": "Compleated",
+    "category": "keyword_ability",
+    "definition": "Compleated is a keyword ability introduced in Kamigawa: Neon Dynasty.",
+    "url": "https://mtg.fandom.com/wiki/Compleated"
+  },
+  {
+    "keyword": "Enchant",
+    "category": "keyword_ability",
+    "definition": "Enchant is a keyword ability that restricts what an Aura can target and be attached to. Aura is an enchantment type.",
+    "url": "https://mtg.fandom.com/wiki/Enchant"
+  },
+  {
+    "keyword": "Flash",
+    "category": "keyword_ability",
+    "definition": "Flash is a keyword ability which allows the card it is printed on to be cast at any time you could cast an Instant.",
+    "url": "https://mtg.fandom.com/wiki/Flash"
+  },
+  {
+    "keyword": "Boast",
+    "category": "keyword_ability",
+    "definition": "Boast is a keyword ability introduced in Kaldheim.",
+    "url": "https://mtg.fandom.com/wiki/Boast"
+  },
+  {
+    "keyword": "Demonstrate",
+    "category": "keyword_ability",
+    "definition": "Demonstrate is a keyword ability first printed on five cards in Commander 2021.",
+    "url": "https://mtg.fandom.com/wiki/Demonstrate"
+  },
+  {
+    "keyword": "Sunburst",
+    "category": "keyword_ability",
+    "definition": "Sunburst is a keyword ability designed by Aaron Forsythe that first appeared in Fifth Dawn. The keyword was unpopular in its first outing (partially due to the dissonance with the set's themes) and was somewhat-unsuccessfully remodelled into Converge.",
+    "url": "https://mtg.fandom.com/wiki/Sunburst"
+  },
+  {
+    "keyword": "Flashback",
+    "category": "keyword_ability",
+    "definition": "Flashback is a keyword ability on instants and sorceries that allows the player to pay an alternative cost to cast the spell directly from their graveyard. The spell card is exiled when the spell leaves the stack. Flashback's equivalent for permanents is unearth.",
+    "url": "https://mtg.fandom.com/wiki/Flashback"
+  },
+  {
+    "keyword": "Cycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Cycling"
+  },
+  {
+    "keyword": "Equip",
+    "category": "keyword_ability",
+    "definition": "Equip is a keyword ability found on artifacts with the subtype \"Equipment\". By paying the equip cost, you can attach the artifact to a creature you control, which is referred to in the text as the \"equipped creature\".",
+    "url": "https://mtg.fandom.com/wiki/Equip"
+  },
+  {
+    "keyword": "Buyback",
+    "category": "keyword_ability",
+    "definition": "Buyback is a keyword ability that appears on instants and sorceries. It provides an optional additional cost that the player casting the spell with buyback may pay as they cast it. If the player does, as the spell finishes resolving, the spell card is put back into its owner's hand rather than into their graveyard.",
+    "url": "https://mtg.fandom.com/wiki/Buyback"
+  },
+  {
+    "keyword": "Hexproof from",
+    "category": "keyword_ability",
+    "definition": "Hexproof is an evergreen keyword ability that prevents a permanent or player from being the target of spells or abilities played by opponents.",
+    "url": "https://mtg.fandom.com/wiki/Hexproof_from"
+  },
+  {
+    "keyword": "More Than Meets the Eye",
+    "category": "keyword_ability",
+    "definition": "More Than Meets the Eye is a keyword ability introduced in the Universes Beyond cross-over Transformers set, named after the tagline of the franchise. It allows players to cast the backside of a double-faced card for an alternate cost.",
+    "url": "https://mtg.fandom.com/wiki/More_Than_Meets_the_Eye"
+  },
+  {
+    "keyword": "Cleave",
+    "category": "keyword_ability",
+    "definition": "Cleave is a keyword ability introduced in Innistrad: Crimson Vow. It can only be found on instants and sorceries, offering an alternative cost.",
+    "url": "https://mtg.fandom.com/wiki/Cleave"
+  },
+  {
+    "keyword": "Champion",
+    "category": "keyword_ability",
+    "definition": "Champion is a keyword ability that allows you to upgrade one permanent into another, representing a powerful creature taking the place of another to fight in its stead.",
+    "url": "https://mtg.fandom.com/wiki/Champion"
+  },
+  {
+    "keyword": "Specialize",
+    "category": "keyword_ability",
+    "definition": "Specialize is a designed-for-digital, MTG Arena-specific mechanic introduced in Alchemy Horizons: Baldur's Gate. As a mechanic that adds a color and abilities to a legendary creature, it acts as a parallel to choosing a Background.",
+    "url": "https://mtg.fandom.com/wiki/Specialize"
+  },
+  {
+    "keyword": "Training",
+    "category": "keyword_ability",
+    "definition": "Training is a keyword ability introduced in Innistrad: Crimson Vow for Humans of Innistrad. It can only be found on creatures.",
+    "url": "https://mtg.fandom.com/wiki/Training"
+  },
+  {
+    "keyword": "Prototype",
+    "category": "keyword_ability",
+    "definition": "Prototype is a keyword ability introduced in The Brothers' War which allows an alternate version of a card to be cast for less than its normal mana cost. It is unique to artifacts and artifact creatures. While technically colorless, prototype costs lean green and blue.",
+    "url": "https://mtg.fandom.com/wiki/Prototype"
+  },
+  {
+    "keyword": "Toxic",
+    "category": "keyword_ability",
+    "definition": "Toxic is a static keyword ability that allows the use of multiple poison counters. It was introduced in Phyrexia: All Will Be One as a reworking of Poisonous. Niche wise, it is also a replacement for the infect mechanic of Scars of Mirrodin, which also focused on poison counters and exemplified the Phyrexian identity there as toxic does here.",
+    "url": "https://mtg.fandom.com/wiki/Toxic"
+  },
+  {
+    "keyword": "Unearth",
+    "category": "keyword_ability",
+    "definition": "Unearth is a keyword ability introduced in Shards of Alara as the Grixis signature mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Unearth"
+  },
+  {
+    "keyword": "Intensity",
+    "category": "keyword_ability",
+    "definition": "Intensity is a designed-for-digital, MTG Arena-specific mechanic introduced in Alchemy: Kamigawa.",
+    "url": "https://mtg.fandom.com/wiki/Intensity"
+  },
+  {
+    "keyword": "Plainscycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Plainscycling"
+  },
+  {
+    "keyword": "Swampcycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Swampcycling"
+  },
+  {
+    "keyword": "Typecycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Typecycling"
+  },
+  {
+    "keyword": "Wizardcycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Wizardcycling"
+  },
+  {
+    "keyword": "Mountaincycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Mountaincycling"
+  },
+  {
+    "keyword": "Basic landcycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Basic_landcycling"
+  },
+  {
+    "keyword": "Islandcycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Islandcycling"
+  },
+  {
+    "keyword": "Forestcycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Forestcycling"
+  },
+  {
+    "keyword": "Landcycling",
+    "category": "keyword_ability",
+    "definition": "Cycling is a keyword ability that allows a player to pay a cost that includes discarding the card. When the activated ability resolves, that player draws a card.",
+    "url": "https://mtg.fandom.com/wiki/Landcycling"
+  },
+  {
+    "keyword": "Bargain",
+    "category": "keyword_ability",
+    "definition": "Bargain is a keyword ability introduced in Wilds of Eldraine that allows you to sacrifice an artifact, enchantment, or token as you cast the spell for an additional effect.",
+    "url": "https://mtg.fandom.com/wiki/Bargain"
+  },
+  {
+    "keyword": "Echo",
+    "category": "keyword_ability",
+    "definition": "Echo is a keyword ability on permanents that requires the permanent's controller to pay its echo cost at the beginning of their next upkeep after they gain control of it, or sacrifice it.",
+    "url": "https://mtg.fandom.com/wiki/Echo"
+  },
+  {
+    "keyword": "Disguise",
+    "category": "keyword_ability",
+    "definition": "Disguise is a keyword ability introduced in Murders at Karlov Manor. It allows the player to pay to cast a card with the ability face down as a 2/2 colorless, typeless creature with Ward . Disguise is an upgraded variant of Morph, which was considered a bit too weak for the contemporary Standard environment.",
+    "url": "https://mtg.fandom.com/wiki/Disguise"
+  },
+  {
+    "keyword": "Landwalk",
+    "category": "keyword_ability",
+    "definition": "Landwalk is a former evergreen keyword ability on creatures that makes the creature unblockable if the defending player controls at least one land with a certain characteristic.",
+    "url": "https://mtg.fandom.com/wiki/Landwalk"
+  },
+  {
+    "keyword": "Umbra armor",
+    "category": "keyword_ability",
+    "definition": "Umbra armor is a keyword ability that was introduced as Totem armor in Rise of the Eldrazi and returned in the Savage Auras deck of Planechase 2012, the Adaptive Enchantment deck in Commander 2018, and in Modern Horizons. If a permanent enchanted by an Aura with umbra armor would be destroyed, the Aura is destroyed instead. If that permanent is a creature, all damage is removed from that creature. In this sense, umbra armor works similarly to Regeneration.",
+    "url": "https://mtg.fandom.com/wiki/Umbra_armor"
+  },
+  {
+    "keyword": "Freerunning",
+    "category": "keyword_ability",
+    "definition": "Freerunning is a keyword ability that offers an alternative cost. It only appears on some Assassin creature cards, and was introduced in Universes Beyond: Assassin's Creed.",
+    "url": "https://mtg.fandom.com/wiki/Freerunning"
+  },
+  {
+    "keyword": "Spree",
+    "category": "keyword_ability",
+    "definition": "Spree is a keyword ability for instants and sorceries that was introduced in Outlaws of Thunder Junction. It grants them modality.",
+    "url": "https://mtg.fandom.com/wiki/Spree"
+  },
+  {
+    "keyword": "Saddle",
+    "category": "keyword_ability",
+    "definition": "Saddle is a keyword ability introduced in Outlaws of Thunder Junction. It only appears on cards with the Mount creature type.",
+    "url": "https://mtg.fandom.com/wiki/Saddle"
+  },
+  {
+    "keyword": "Shadow",
+    "category": "keyword_ability",
+    "definition": "Shadow is a keyword ability on creatures that serves as both an evasion ability and a blocking restriction, featured in the Tempest block.",
+    "url": "https://mtg.fandom.com/wiki/Shadow"
+  },
+  {
+    "keyword": "Devour",
+    "category": "keyword_ability",
+    "definition": "Devour is a static ability first introduced in Shards of Alara.",
+    "url": "https://mtg.fandom.com/wiki/Devour"
+  },
+  {
+    "keyword": "Offspring",
+    "category": "keyword_ability",
+    "definition": "Offspring is a mechanic that was introduced in Bloomburrow to represent the familial nature of the set's characters.",
+    "url": "https://mtg.fandom.com/wiki/Offspring"
+  },
+  {
+    "keyword": "Impending",
+    "category": "keyword_ability",
+    "definition": "Impending is a keyword ability introduced in Duskmourn: House of Horror. It conveys the feeling of knowing doom is coming.",
+    "url": "https://mtg.fandom.com/wiki/Impending"
+  },
+  {
+    "keyword": "Gift",
+    "category": "keyword_ability",
+    "definition": "Gift [something] is a keyword ability introduced in Bloomburrow. It represents an additional cost.",
+    "url": "https://mtg.fandom.com/wiki/Gift"
+  },
+  {
+    "keyword": "Exhaust",
+    "category": "keyword_ability",
+    "definition": "Exhaust is a mechanic introduced in Aetherdrift. It signifies activated abilities that can only be used once.",
+    "url": "https://mtg.fandom.com/wiki/Exhaust"
+  },
+  {
+    "keyword": "Max speed",
+    "category": "keyword_ability",
+    "definition": "Speed is a trait that players can have. It was introduced in Aetherdrift and is associated with the Start your engines! mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Max_speed"
+  },
+  {
+    "keyword": "Fear",
+    "category": "keyword_ability",
+    "definition": "Fear is a keyword ability found primarily on black creatures. It is an evasion ability that allows a creature to only be blocked by black or artifact creatures.",
+    "url": "https://mtg.fandom.com/wiki/Fear"
+  },
+  {
+    "keyword": "Double team",
+    "category": "keyword_ability",
+    "definition": "Double team is a designed-for-digital, MTG Arena-specific keyword ability introduced in Alchemy Horizons: Baldur's Gate. You get two creatures for the price of one.",
+    "url": "https://mtg.fandom.com/wiki/Double_team"
+  },
+  {
+    "keyword": "Prowl",
+    "category": "keyword_ability",
+    "definition": "Prowl is an alternative cost that appears on some Rogue creature or kindred cards.",
+    "url": "https://mtg.fandom.com/wiki/Prowl"
+  },
+  {
+    "keyword": "Seek",
+    "category": "keyword_action",
+    "definition": "Seek is a designed-for-digital, MTG Arena-specific keyword action introduced in Jumpstart: Historic Horizons. When an effect causes a player to take this action, the game will automatically choose a random card meeting specified criteria from the library, and put it into their hand.",
+    "url": "https://mtg.fandom.com/wiki/Seek"
+  },
+  {
+    "keyword": "Activate",
+    "category": "keyword_action",
+    "definition": "Activate is a keyword action. One of the big things the Sixth Edition rules change did was to try to consolidate how Magic card text referred to things. The game had always had activated abilities, but it wasn't until then that it got its own vocabulary word.",
+    "url": "https://mtg.fandom.com/wiki/Activate"
+  },
+  {
+    "keyword": "Attach",
+    "category": "keyword_action",
+    "definition": "Attach is a keyword action. It means \"to move an Aura, Equipment, or Fortification onto another object or player\".",
+    "url": "https://mtg.fandom.com/wiki/Attach"
+  },
+  {
+    "keyword": "Cast",
+    "category": "keyword_action",
+    "definition": "Cast is a keyword action. It was introduced in Alpha but temporary replaced with Play in the Sixth Edition rules changes and then reinstated in Magic 2010. When you cast a spell, you take it from where it is (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect.",
+    "url": "https://mtg.fandom.com/wiki/Cast"
+  },
+  {
+    "keyword": "Counter",
+    "category": "keyword_action",
+    "definition": "Certain spells and abilities can \"counter target spell\" (or similar effects). Counter in this sense is an evergreen keyword action. A spell that is countered is put into the graveyard instead of doing its effect. It is essentially negated.",
+    "url": "https://mtg.fandom.com/wiki/Counter"
+  },
+  {
+    "keyword": "Create",
+    "category": "keyword_action",
+    "definition": "Create is an evergreen keyword action. It was consolidated with a name in Kaladesh and first seen on the FNM promo for October 2016, Rise from the Tides, although Wizards of the Coast defined it just only as a new vocabulary.",
+    "url": "https://mtg.fandom.com/wiki/Create"
+  },
+  {
+    "keyword": "Destroy",
+    "category": "keyword_action",
+    "definition": "Destroy is an evergreen keyword action, introduced in Alpha. When a permanent is destroyed, it is moved from the battlefield to its owner’s graveyard. It is also the term used for creatures going to the graveyard due to lethal damage, including the reduced lethal damage threshold caused by Deathtouch.",
+    "url": "https://mtg.fandom.com/wiki/Destroy"
+  },
+  {
+    "keyword": "Discard",
+    "category": "keyword_action",
+    "definition": "Discard is an evergreen keyword action which takes cards from a player's hand and puts them in their graveyard.",
+    "url": "https://mtg.fandom.com/wiki/Discard"
+  },
+  {
+    "keyword": "Double",
+    "category": "keyword_action",
+    "definition": "Double is a keyword action formally introduced in Dominaria for Grunn, the Lonely King.",
+    "url": "https://mtg.fandom.com/wiki/Double"
+  },
+  {
+    "keyword": "Exchange",
+    "category": "keyword_action",
+    "definition": "Exchange is a keyword action. One of the big things the Sixth Edition rules change did was to try to consolidate how Magic card text referred to things. The game had always had it, but it wasn't until then that exchange got its own vocabulary word.",
+    "url": "https://mtg.fandom.com/wiki/Exchange"
+  },
+  {
+    "keyword": "Exile",
+    "category": "keyword_action",
+    "definition": "Exile is a game zone outside the field of play. It is also a keyword action, meaning \"put into the exile zone\".",
+    "url": "https://mtg.fandom.com/wiki/Exile"
+  },
+  {
+    "keyword": "Adapt",
+    "category": "keyword_action",
+    "definition": "Adapt is a keyword action introduced in Ravnica Allegiance for the Simic Combine.",
+    "url": "https://mtg.fandom.com/wiki/Adapt"
+  },
+  {
+    "keyword": "Support",
+    "category": "keyword_action",
+    "definition": "Support is a keyword action introduced in Oath of the Gatewatch that boosts your (or your teammates') creatures with +1/+1 counters.",
+    "url": "https://mtg.fandom.com/wiki/Support"
+  },
+  {
+    "keyword": "Play",
+    "category": "keyword_action",
+    "definition": "Play is a keyword action which usually describes putting a land onto the battlefield from the hand. The equivalent for spells is \"casting\" them, although casting is much more complex than playing a land. \"Playing a card\" is also used when the card type is unknown, to generally describe playing a land or casting a spell as appropriate for the card type. The latter usage is most commonly seen on red's \"impulsive draw\" ability. This relationship between playing and casting is one-sided: \"playing a card\" includes casting a spell, but \"casting\" never includes playing a land.",
+    "url": "https://mtg.fandom.com/wiki/Play"
+  },
+  {
+    "keyword": "Regenerate",
+    "category": "keyword_action",
+    "definition": "Regenerate is a former evergreen keyword action until it was removed from evergreen status after Oath of the Gatewatch.",
+    "url": "https://mtg.fandom.com/wiki/Regenerate"
+  },
+  {
+    "keyword": "Reveal",
+    "category": "keyword_action",
+    "definition": "Reveal is a keyword action. By keywording it, the Sixth Edition rules change clarified that there was a difference between a player looking at hidden information (usually something in a player's hand) and that player revealing it which meant that all players saw it. This distinction isn't important in a two-player game but matters very much when three or more players are involved. Also, the game would later care about things being revealed.",
+    "url": "https://mtg.fandom.com/wiki/Reveal"
+  },
+  {
+    "keyword": "Sacrifice",
+    "category": "keyword_action",
+    "definition": "Sacrifice, often shortened to sac, is a keyword action. It means to move a permanent you control to its owner's graveyard.",
+    "url": "https://mtg.fandom.com/wiki/Sacrifice"
+  },
+  {
+    "keyword": "Shuffle",
+    "category": "keyword_action",
+    "definition": "Shuffle is a keyword action that was introduced in Alpha. A shuffled deck must be completely randomized. Libraries can only be shuffled when a player is directed to do so by the rules. Players shuffle in many different ways. The most common is a combination of 'riffle' shuffles and 'pile' shuffles.",
+    "url": "https://mtg.fandom.com/wiki/Shuffle"
+  },
+  {
+    "keyword": "Tap",
+    "category": "keyword_action",
+    "definition": "Tap is a keyword action that is usually represented on cards with symbol.",
+    "url": "https://mtg.fandom.com/wiki/Tap"
+  },
+  {
+    "keyword": "Untap",
+    "category": "keyword_action",
+    "definition": "Untap is a keyword action that happens during the untap step. It is the process of rotating a permanent back to the upright position from a sideways position.",
+    "url": "https://mtg.fandom.com/wiki/Untap"
+  },
+  {
+    "keyword": "Vote",
+    "category": "keyword_action",
+    "definition": "Vote is a keyword action first featured in Conspiracy and later used in Conspiracy: Take the Crown, Streets of New Capenna and Lord of the Rings Commander.",
+    "url": "https://mtg.fandom.com/wiki/Vote"
+  },
+  {
+    "keyword": "Time Travel",
+    "category": "keyword_action",
+    "definition": "Time travel is a keyword action introduced in the Universes Beyond set Doctor Who. It allows players to manipulate the time counters on their cards.",
+    "url": "https://mtg.fandom.com/wiki/Time_Travel"
+  },
+  {
+    "keyword": "Goad",
+    "category": "keyword_action",
+    "definition": "Goad is a keyword action introduced in Conspiracy: Take the Crown that forces creatures to attack, preferably someone other than you. It was designed for multiplayer play.",
+    "url": "https://mtg.fandom.com/wiki/Goad"
+  },
+  {
+    "keyword": "Transform",
+    "category": "keyword_action",
+    "definition": "Transform is a keyword action introduced in Innistrad and means to turn a double-faced card on the back side, changing the card face that is visible.",
+    "url": "https://mtg.fandom.com/wiki/Transform"
+  },
+  {
+    "keyword": "Surveil",
+    "category": "keyword_action",
+    "definition": "Surveil is a keyword action that allows a player to look at a certain number of cards from the top of their library and put them in the graveyard or back on top in any order.",
+    "url": "https://mtg.fandom.com/wiki/Surveil"
+  },
+  {
+    "keyword": "Planeswalk",
+    "category": "keyword_action",
+    "definition": "Planeswalk is a keyword action used in the Planechase format.",
+    "url": "https://mtg.fandom.com/wiki/Planeswalk"
+  },
+  {
+    "keyword": "Mill",
+    "category": "keyword_action",
+    "definition": "Mill is a keyword action used in Magic to describe the action of a player taking cards from the top of their library and putting them into their graveyard. For a player to mill N cards, they put the top N cards from their library into their graveyard. The term alludes to the card Millstone, which was first printed in Antiquities and was the first card to feature this mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Mill"
+  },
+  {
+    "keyword": "Learn",
+    "category": "keyword_action",
+    "definition": "Learn is a keyword action introduced in Strixhaven: School of Mages.",
+    "url": "https://mtg.fandom.com/wiki/Learn"
+  },
+  {
+    "keyword": "Connive",
+    "category": "keyword_action",
+    "definition": "Connive is a keyword action introduced in Streets of New Capenna as the signature Obscura mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Connive"
+  },
+  {
+    "keyword": "Venture into the dungeon",
+    "category": "keyword_action",
+    "definition": "Venture into the dungeon is a keyword action introduced in Dungeons & Dragons: Adventures in the Forgotten Realms. It interacts with the dungeon card type.",
+    "url": "https://mtg.fandom.com/wiki/Venture_into_the_dungeon"
+  },
+  {
+    "keyword": "Exert",
+    "category": "keyword_action",
+    "definition": "Exert is a keyword action introduced in Amonkhet. Exert is focused in white, red and green.",
+    "url": "https://mtg.fandom.com/wiki/Exert"
+  },
+  {
+    "keyword": "Food",
+    "category": "keyword_action",
+    "definition": "Food is a predefined token and artifact type introduced in Throne of Eldraine.",
+    "url": "https://mtg.fandom.com/wiki/Food"
+  },
+  {
+    "keyword": "Discover",
+    "category": "keyword_action",
+    "definition": "Discover is a keyword action introduced in The Lost Caverns of Ixalan.",
+    "url": "https://mtg.fandom.com/wiki/Discover"
+  },
+  {
+    "keyword": "Abandon",
+    "category": "keyword_action",
+    "definition": "Abandon is a keyword action which is only used in the Archenemy format. Together with set in motion it is used to interact with Schemes.",
+    "url": "https://mtg.fandom.com/wiki/Abandon"
+  },
+  {
+    "keyword": "Explore",
+    "category": "keyword_action",
+    "definition": "Explore is a keyword action introduced in Ixalan. The mechanic was created by Ken Nagle.",
+    "url": "https://mtg.fandom.com/wiki/Explore"
+  },
+  {
+    "keyword": "Treasure",
+    "category": "keyword_action",
+    "definition": "Treasure is a predefined token and artifact type introduced in the Ixalan block. It appeared exclusively on tokens until the release of Dungeons & Dragons: Adventures in the Forgotten Realms.",
+    "url": "https://mtg.fandom.com/wiki/Treasure"
+  },
+  {
+    "keyword": "Set in motion",
+    "category": "keyword_action",
+    "definition": "Set in Motion is a keyword action which is only used in the Archenemy format. Together with abandon it is used to interact with Schemes.",
+    "url": "https://mtg.fandom.com/wiki/Set_in_motion"
+  },
+  {
+    "keyword": "Fateseal",
+    "category": "keyword_action",
+    "definition": "Fateseal is a keyword action similar to scry. The only difference between them is that when you scry, you affect your own library, and when you fateseal, you affect an opponent's library.",
+    "url": "https://mtg.fandom.com/wiki/Fateseal"
+  },
+  {
+    "keyword": "Manifest",
+    "category": "keyword_action",
+    "definition": "Manifest is a keyword action introduced in Fate Reforged. When you manifest a card, you put it onto the battlefield face down.",
+    "url": "https://mtg.fandom.com/wiki/Manifest"
+  },
+  {
+    "keyword": "Populate",
+    "category": "keyword_action",
+    "definition": "Populate is a keyword action that creates copies of creature tokens.",
+    "url": "https://mtg.fandom.com/wiki/Populate"
+  },
+  {
+    "keyword": "Detain",
+    "category": "keyword_action",
+    "definition": "Detain is a keyword action that was introduced in Return to Ravnica as the guild mechanic of the Azorius guild.",
+    "url": "https://mtg.fandom.com/wiki/Detain"
+  },
+  {
+    "keyword": "Investigate",
+    "category": "keyword_action",
+    "definition": "Investigate is a keyword action introduced in Shadows over Innistrad and reused in Innistrad: Midnight Hunt. It later became deciduous.",
+    "url": "https://mtg.fandom.com/wiki/Investigate"
+  },
+  {
+    "keyword": "Monstrosity",
+    "category": "keyword_action",
+    "definition": "Monstrosity is a keyword action introduced in Theros, where it was connected to the monster theme of the set. It is an ability that gives a power boost through a one-time payment.",
+    "url": "https://mtg.fandom.com/wiki/Monstrosity"
+  },
+  {
+    "keyword": "Clash",
+    "category": "keyword_action",
+    "definition": "Clash is an keyword action. It first appeared in Lorwyn and was reused in Morningtide.",
+    "url": "https://mtg.fandom.com/wiki/Clash"
+  },
+  {
+    "keyword": "Scry",
+    "category": "keyword_action",
+    "definition": "Scry is a keyword action that allows a player to look at a certain number of cards from the top of their library and put them on the bottom of the library or back on top in any order. It primarily features on instants and sorceries, but has also appeared on creatures, artifacts, lands (including a cycle first printed in Theros block), and enchantments. It is also part of the Vancouver mulligan.",
+    "url": "https://mtg.fandom.com/wiki/Scry"
+  },
+  {
+    "keyword": "Incubate",
+    "category": "keyword_action",
+    "definition": "Incubate is a keyword action introduced in March of the Machine related to the Incubator type. The instruction to incubate includes a number which indicates how many +1/+1 counters to put on the Incubator token.",
+    "url": "https://mtg.fandom.com/wiki/Incubate"
+  },
+  {
+    "keyword": "Proliferate",
+    "category": "keyword_action",
+    "definition": "Proliferate is a keyword action introduced in Scars of Mirrodin. When a player proliferates, they choose any number of players and/or permanents with counters on them, then put another of each kind of counter already there on these players or permanents.",
+    "url": "https://mtg.fandom.com/wiki/Proliferate"
+  },
+  {
+    "keyword": "Meld",
+    "category": "keyword_action",
+    "definition": "Meld is a keyword action that means to turn two meld cards on the back side into one oversized card, if you control the proper pair. It was introduced in Eldritch Moon with three pairs. Meld returned with three more meld pairs in The Brothers' War.",
+    "url": "https://mtg.fandom.com/wiki/Meld"
+  },
+  {
+    "keyword": "Convert",
+    "category": "keyword_action",
+    "definition": "Convert is a keyword action introduced in Transformers and means to turn a double-faced card to the opposite face. It is exactly the same as Transform.",
+    "url": "https://mtg.fandom.com/wiki/Convert"
+  },
+  {
+    "keyword": "Fight",
+    "category": "keyword_action",
+    "definition": "Fight is a keyword action introduced in Innistrad. The word appears in a phrase like \"[Cardname] fights target creature.\" and it means that both creatures deal damage equal to their Power to each other. Cards using fight appear primary in green and secondary in red. They carry the flavor of an altercation.",
+    "url": "https://mtg.fandom.com/wiki/Fight"
+  },
+  {
+    "keyword": "Bolster",
+    "category": "keyword_action",
+    "definition": "Bolster is a keyword action introduced in Fate Reforged where it replaced Outlast from Khans of Tarkir as the mechanic associated with the Abzan Houses. Bolster is also featured in Dragons of Tarkir, associated with Clan Dromoka.",
+    "url": "https://mtg.fandom.com/wiki/Bolster"
+  },
+  {
+    "keyword": "Assemble",
+    "category": "keyword_action",
+    "definition": "Assemble is a keyword action introduced as a joke in Future Sight and related to Contraptions. It was greatly expanded upon in Unstable, where it was one of the main silver-bordered mechanics. Contraptions may be assembled by players and/or Creatures (Riggers).",
+    "url": "https://mtg.fandom.com/wiki/Assemble"
+  },
+  {
+    "keyword": "Conjure",
+    "category": "keyword_action",
+    "definition": "Conjure is a designed-for-digital, MTG Arena-specific keyword action introduced in Jumpstart: Historic Horizons. It creates cards which were not originally in the player's deck or sideboard - they are created from the action itself, but behave like normal cards thereafter.",
+    "url": "https://mtg.fandom.com/wiki/Conjure"
+  },
+  {
+    "keyword": "Amass",
+    "category": "keyword_action",
+    "definition": "Amass is a keyword action introduced in War of the Spark that creates and grows an Army.",
+    "url": "https://mtg.fandom.com/wiki/Amass"
+  },
+  {
+    "keyword": "Cloak",
+    "category": "keyword_action",
+    "definition": "Cloak is a keyword action introduced in Murders at Karlov Manor as an upgraded version of Manifest. When you cloak a card, you put it onto the battlefield face down.",
+    "url": "https://mtg.fandom.com/wiki/Cloak"
+  },
+  {
+    "keyword": "Suspect",
+    "category": "keyword_action",
+    "definition": "Suspect is a keyword action introduced in Murders at Karlov Manor. It creates a designation on a creature that encourages attacking.",
+    "url": "https://mtg.fandom.com/wiki/Suspect"
+  },
+  {
+    "keyword": "Collect evidence",
+    "category": "keyword_action",
+    "definition": "Collect evidence is a keyword action introduced in Murders at Karlov Manor.",
+    "url": "https://mtg.fandom.com/wiki/Collect_evidence"
+  },
+  {
+    "keyword": "Plot",
+    "category": "keyword_action",
+    "definition": "Plot is an alternative cost mechanic introduced in Outlaws of Thunder Junction. The word “plot” is used as in “plot and scheme” (secret, cunning, and often unscrupulous planning to gain one's ends) to mechanically represent the various plans set forth by the villains and outlaws in the set.",
+    "url": "https://mtg.fandom.com/wiki/Plot"
+  },
+  {
+    "keyword": "Heist",
+    "category": "keyword_action",
+    "definition": "Heist is a designed-for-digital, MTG Arena-specific keyword action introduced in Alchemy: Thunder Junction. It allows players to steal a random nonland card from an opponent's library.",
+    "url": "https://mtg.fandom.com/wiki/Heist"
+  },
+  {
+    "keyword": "Forage",
+    "category": "keyword_action",
+    "definition": "Forage is a keyword action introduced in Bloomburrow. It can be used as an additional cost.",
+    "url": "https://mtg.fandom.com/wiki/Forage"
+  },
+  {
+    "keyword": "Manifest dread",
+    "category": "keyword_action",
+    "definition": "Manifest is a keyword action introduced in Fate Reforged. When you manifest a card, you put it onto the battlefield face down.",
+    "url": "https://mtg.fandom.com/wiki/Manifest_dread"
+  },
+  {
+    "keyword": "Eerie",
+    "category": "ability_word",
+    "definition": "Eerie is an ability word introduced in Duskmourn: House of Horror, where it is connected to the enchantments, and particularly to the plane's Rooms.",
+    "url": "https://mtg.fandom.com/wiki/Eerie"
+  },
+  {
+    "keyword": "Battalion",
+    "category": "ability_word",
+    "definition": "Battalion is an ability word introduced in Gatecrash, wherein it is the Boros Legion guild mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Battalion"
+  },
+  {
+    "keyword": "Bloodrush",
+    "category": "ability_word",
+    "definition": "Bloodrush is an ability word introduced in Gatecrash, wherein it is the Gruul Clans guild mechanic. It is a modal mechanic, with a moderately-sized creature on one \"side\" and a secondary mode of being able to be discarded in order to give an attacking creature a temporary power/toughness boost equal to the power and toughness of the discarded creature card, along with any combat-related abilities the creature had. This allows for drafters to sustain a quota of combat tricks without stranding themselves when without creatures.",
+    "url": "https://mtg.fandom.com/wiki/Bloodrush"
+  },
+  {
+    "keyword": "Channel",
+    "category": "ability_word",
+    "definition": "Channel is an ability word indicating that a card may be discarded for an effect. It was introduced in Saviors of Kamigawa.",
+    "url": "https://mtg.fandom.com/wiki/Channel"
+  },
+  {
+    "keyword": "Chroma",
+    "category": "ability_word",
+    "definition": "Chroma is an ability word first introduced in Eventide.",
+    "url": "https://mtg.fandom.com/wiki/Chroma"
+  },
+  {
+    "keyword": "Cohort",
+    "category": "ability_word",
+    "definition": "Cohort is an ability word introduced in Oath of the Gatewatch and associated with Allies. The activated ability requires tapping the Ally creature and another Ally.",
+    "url": "https://mtg.fandom.com/wiki/Cohort"
+  },
+  {
+    "keyword": "Constellation",
+    "category": "ability_word",
+    "definition": "Constellation is an ability word introduced in Journey into Nyx, where it is connected to the god theme of the block.",
+    "url": "https://mtg.fandom.com/wiki/Constellation"
+  },
+  {
+    "keyword": "Converge",
+    "category": "ability_word",
+    "definition": "Converge is an ability word introduced in Battle for Zendikar, which highlights spells whose effects depend on the number of colors of mana you spend to cast them.",
+    "url": "https://mtg.fandom.com/wiki/Converge"
+  },
+  {
+    "keyword": "Delirium",
+    "category": "ability_word",
+    "definition": "Delirium is an ability word introduced in Shadows over Innistrad block",
+    "url": "https://mtg.fandom.com/wiki/Delirium"
+  },
+  {
+    "keyword": "Domain",
+    "category": "ability_word",
+    "definition": "Domain is an ability word used on cards that rely on and count the number of different basic land types (zero to five) a player controls. Domain cards were introduced in Invasion.",
+    "url": "https://mtg.fandom.com/wiki/Domain"
+  },
+  {
+    "keyword": "Fateful hour",
+    "category": "ability_word",
+    "definition": "Fateful hour is an ability word introduced in Dark Ascension.",
+    "url": "https://mtg.fandom.com/wiki/Fateful_hour"
+  },
+  {
+    "keyword": "Ferocious",
+    "category": "ability_word",
+    "definition": "Ferocious is an ability word introduced in Khans of Tarkir, wherein it was the Temur Frontier clan mechanic. \"Ferocious\" is also used to indicate a similar mechanic that doesn't use the ability word itself.",
+    "url": "https://mtg.fandom.com/wiki/Ferocious"
+  },
+  {
+    "keyword": "Formidable",
+    "category": "ability_word",
+    "definition": "Formidable is an ability word introduced in Dragons of Tarkir, where it is the signature ability of the red-green Clan Atarka.",
+    "url": "https://mtg.fandom.com/wiki/Formidable"
+  },
+  {
+    "keyword": "Grandeur",
+    "category": "ability_word",
+    "definition": "Grandeur is an ability word that was introduced in Future Sight, seen on a cycle of five legendary creatures in that set.",
+    "url": "https://mtg.fandom.com/wiki/Grandeur"
+  },
+  {
+    "keyword": "Hellbent",
+    "category": "ability_word",
+    "definition": "Hellbent is an ability word that indicates that a card is better if its controller has no cards in their hand.",
+    "url": "https://mtg.fandom.com/wiki/Hellbent"
+  },
+  {
+    "keyword": "Heroic",
+    "category": "ability_word",
+    "definition": "Heroic is an ability word introduced in Theros. A creature with heroic gives the controlling player powerful benefits every time they cast a spell that targets it.",
+    "url": "https://mtg.fandom.com/wiki/Heroic"
+  },
+  {
+    "keyword": "Imprint",
+    "category": "ability_word",
+    "definition": "Imprint is a mechanic that was introduced in Mirrodin as a keyword ability. It was updated as an ability word in Magic 2010 rules, and thus then officially reintroduced in Scars of Mirrodin.",
+    "url": "https://mtg.fandom.com/wiki/Imprint"
+  },
+  {
+    "keyword": "Inspired",
+    "category": "ability_word",
+    "definition": "Inspired is an ability word introduced in Born of the Gods. Whenever an inspired creature becomes untapped, it does something.",
+    "url": "https://mtg.fandom.com/wiki/Inspired"
+  },
+  {
+    "keyword": "Join forces",
+    "category": "ability_word",
+    "definition": "Join forces is an ability word introduced in Commander.",
+    "url": "https://mtg.fandom.com/wiki/Join_forces"
+  },
+  {
+    "keyword": "Kinship",
+    "category": "ability_word",
+    "definition": "Kinship is an ability word that indicates a group of similar triggered abilities that appear on Morningtide creatures.",
+    "url": "https://mtg.fandom.com/wiki/Kinship"
+  },
+  {
+    "keyword": "Landfall",
+    "category": "ability_word",
+    "definition": "Landfall is an ability word which signals triggered abilities that respond to a Land entering the Battlefield under the control of the player with the Landfall card.",
+    "url": "https://mtg.fandom.com/wiki/Landfall"
+  },
+  {
+    "keyword": "Lieutenant",
+    "category": "ability_word",
+    "definition": "Lieutenant is an ability word introduced in Commander 2014.",
+    "url": "https://mtg.fandom.com/wiki/Lieutenant"
+  },
+  {
+    "keyword": "Metalcraft",
+    "category": "ability_word",
+    "definition": "Metalcraft is an ability word introduced in Scars of Mirrodin, and was subsequently also featured in the rest of the Scars of Mirrodin block. It is exclusive to the Mirran faction.",
+    "url": "https://mtg.fandom.com/wiki/Metalcraft"
+  },
+  {
+    "keyword": "Morbid",
+    "category": "ability_word",
+    "definition": "Morbid is an ability word introduced in Innistrad. It signals that a spell or ability has different effects, additional effects, or may only be used if a creature has died earlier in the same turn.",
+    "url": "https://mtg.fandom.com/wiki/Morbid"
+  },
+  {
+    "keyword": "Parley",
+    "category": "ability_word",
+    "definition": "Parley is an ability word introduced in the multiplayer Conspiracy set.",
+    "url": "https://mtg.fandom.com/wiki/Parley"
+  },
+  {
+    "keyword": "Radiance",
+    "category": "ability_word",
+    "definition": "Radiance is an ability word associated with the Boros Legion of Ravnica. Radiance means \"Effect on target [something] that affects all [somethings] that share a color with it.\" Radiance was introduced in Ravnica: City of Guilds and is only on red or white cards as those are the colors of the Boros Legion.",
+    "url": "https://mtg.fandom.com/wiki/Radiance"
+  },
+  {
+    "keyword": "Raid",
+    "category": "ability_word",
+    "definition": "Raid is an ability word introduced in Khans of Tarkir, wherein it is the Mardu Horde clan mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Raid"
+  },
+  {
+    "keyword": "Rally",
+    "category": "ability_word",
+    "definition": "Rally is an ability word introduced in Battle for Zendikar, which is tied to the Ally creature type. It highlights abilities that trigger whenever an Ally enters the battlefield under your control.",
+    "url": "https://mtg.fandom.com/wiki/Rally"
+  },
+  {
+    "keyword": "Spell mastery",
+    "category": "ability_word",
+    "definition": "Spell mastery is an ability word that gives a card different or additional characteristics if its controller has 2 or more instant or sorcery cards in their graveyard.",
+    "url": "https://mtg.fandom.com/wiki/Spell_mastery"
+  },
+  {
+    "keyword": "Strive",
+    "category": "ability_word",
+    "definition": "Strive is an ability word introduced in Journey into Nyx, where it was connected to the hero theme of the block.",
+    "url": "https://mtg.fandom.com/wiki/Strive"
+  },
+  {
+    "keyword": "Sweep",
+    "category": "ability_word",
+    "definition": "Sweep is an ability word first introduced in Saviors of Kamigawa.",
+    "url": "https://mtg.fandom.com/wiki/Sweep"
+  },
+  {
+    "keyword": "Tempting offer",
+    "category": "ability_word",
+    "definition": "Tempting offer is an ability word introduced in Commander 2013. It has only appeared on sorceries and instants.",
+    "url": "https://mtg.fandom.com/wiki/Tempting_offer"
+  },
+  {
+    "keyword": "Threshold",
+    "category": "ability_word",
+    "definition": "Threshold is an ability word that gives a card different or additional characteristics if its controller has seven or more cards in their graveyard. It was introduced in Odyssey and featured as a draft archetype for Rats in Bloomburrow.",
+    "url": "https://mtg.fandom.com/wiki/Threshold"
+  },
+  {
+    "keyword": "Will of the council",
+    "category": "ability_word",
+    "definition": "Will of the council is an ability word found in the multiplayer Conspiracy set. It calls for all players to vote on an effect.",
+    "url": "https://mtg.fandom.com/wiki/Will_of_the_council"
+  },
+  {
+    "keyword": "Adamant",
+    "category": "ability_word",
+    "definition": "Adamant is an ability word introduced in Throne of Eldraine for spells of the five courts that make up \"the Realm\".",
+    "url": "https://mtg.fandom.com/wiki/Adamant"
+  },
+  {
+    "keyword": "Addendum",
+    "category": "ability_word",
+    "definition": "Addendum is an ability word introduced in Ravnica Allegiance for the Azorius Senate.",
+    "url": "https://mtg.fandom.com/wiki/Addendum"
+  },
+  {
+    "keyword": "Council's dilemma",
+    "category": "ability_word",
+    "definition": "Council's dilemma is an ability word introduced in the multiplayer Conspiracy: Take the Crown set.",
+    "url": "https://mtg.fandom.com/wiki/Council's_dilemma"
+  },
+  {
+    "keyword": "Eminence",
+    "category": "ability_word",
+    "definition": "Eminence is an ability word introduced in Commander 2017 on four legendary creatures (The Ur-Dragon, Inalla, Archmage Ritualist, Edgar Markov, and Arahbo, Roar of the World), that were the face cards of the decks.",
+    "url": "https://mtg.fandom.com/wiki/Eminence"
+  },
+  {
+    "keyword": "Enrage",
+    "category": "ability_word",
+    "definition": "Enrage is a triggered ability word introduced in Ixalan as the signature mechanic for the Dinosaurs of the Sun Empire.",
+    "url": "https://mtg.fandom.com/wiki/Enrage"
+  },
+  {
+    "keyword": "Hero's Reward",
+    "category": "ability_word",
+    "definition": "Hero's Reward is an ability word that is found in the Theros block Challenge Decks. It is not legal in regular Magic.",
+    "url": "https://mtg.fandom.com/wiki/Hero's_Reward"
+  },
+  {
+    "keyword": "Kinfall",
+    "category": "ability_word",
+    "definition": "Kinfall is an ability word that appears on a test card in the Mystery Booster set.",
+    "url": "https://mtg.fandom.com/wiki/Kinfall"
+  },
+  {
+    "keyword": "Landship",
+    "category": "ability_word",
+    "definition": "Landship is an ability word that appears on a test card in the Mystery Booster set.",
+    "url": "https://mtg.fandom.com/wiki/Landship"
+  },
+  {
+    "keyword": "Legacy",
+    "category": "ability_word",
+    "definition": "Legacy is an eternal format alongside Vintage. Since Vintage demands hard-to-acquire cards (e.g.: Black Lotus), Legacy became the most popular of the two for being less restrictive for new players to join.",
+    "url": "https://mtg.fandom.com/wiki/Legacy"
+  },
+  {
+    "keyword": "Revolt",
+    "category": "ability_word",
+    "definition": "Revolt is an ability word was introduced in the 2017 set Aether Revolt, that checks if a permanent you controlled left the battlefield this turn.",
+    "url": "https://mtg.fandom.com/wiki/Revolt"
+  },
+  {
+    "keyword": "Underdog",
+    "category": "ability_word",
+    "definition": "Underdog is an ability word that gives cards a bonus in the next game within a match, when they have lost a previous game in that match. It was introduced on the Mystery Booster test card Ruff, Underdog Champ.",
+    "url": "https://mtg.fandom.com/wiki/Underdog"
+  },
+  {
+    "keyword": "Undergrowth",
+    "category": "ability_word",
+    "definition": "Undergrowth is an ability word, introduced in Guilds of Ravnica for the Golgari Swarm, which cares for the number of creature cards in your graveyard.",
+    "url": "https://mtg.fandom.com/wiki/Undergrowth"
+  },
+  {
+    "keyword": "Void",
+    "category": "ability_word",
+    "definition": "A planar void is speculated to be a plane without worlds in them, mainly because of the existence of the Nether Void and the Lord of the Void. More often, the planar void is thought to be synonymous to the Aether and/or the Blind Eternities. This is especially seen in the name of certain Eldrazi on Zendikar. The Voidmages of Vryn can interact with the void, as well as some mages from Drunau on Innistrad.",
+    "url": "https://mtg.fandom.com/wiki/Void"
+  },
+  {
+    "keyword": "Descend",
+    "category": "ability_word",
+    "definition": "Descend is a mechanic introduced in The Lost Caverns of Ixalan.",
+    "url": "https://mtg.fandom.com/wiki/Descend"
+  },
+  {
+    "keyword": "Fathomless descent",
+    "category": "ability_word",
+    "definition": "Descend is a mechanic introduced in The Lost Caverns of Ixalan.",
+    "url": "https://mtg.fandom.com/wiki/Fathomless_descent"
+  },
+  {
+    "keyword": "Magecraft",
+    "category": "ability_word",
+    "definition": "Magecraft is an ability word introduced in Strixhaven: School of Mages that causes an effect whenever you cast or copy an instant or sorcery spell.",
+    "url": "https://mtg.fandom.com/wiki/Magecraft"
+  },
+  {
+    "keyword": "Pack tactics",
+    "category": "ability_word",
+    "definition": "Pack tactics is an ability word that gives an advantage if you attack with creatures with a total power 6 or greater. It lives in the middle ground - 6 power across attackers - between Ferocious - 4 power on one creature - and Formidable - 8 power across all creatures. It was introduced in Adventures in the Forgotten Realms.",
+    "url": "https://mtg.fandom.com/wiki/Pack_tactics"
+  },
+  {
+    "keyword": "Coven",
+    "category": "ability_word",
+    "definition": "Coven is an ability word introduced in Innistrad: Midnight Hunt, where the mechanic is connected to humans.",
+    "url": "https://mtg.fandom.com/wiki/Coven"
+  },
+  {
+    "keyword": "Alliance",
+    "category": "ability_word",
+    "definition": "Alliance is an ability word introduced in Streets of New Capenna as the signature Cabaretti mechanic.",
+    "url": "https://mtg.fandom.com/wiki/Alliance"
+  },
+  {
+    "keyword": "Corrupted",
+    "category": "ability_word",
+    "definition": "Corrupted is an ability word that gives a card different or additional characteristics if an opponent has three or more Poison counters. It was introduced in Phyrexia: All Will Be One.",
+    "url": "https://mtg.fandom.com/wiki/Corrupted"
+  },
+  {
+    "keyword": "Secret council",
+    "category": "ability_word",
+    "definition": "Secret council is an ability word introduced in the multiplayer Lord of the Rings Commander set. Just like Will of the council and Council's dilemma, it calls for all players to vote on an effect but with the twist that the voting is secret.",
+    "url": "https://mtg.fandom.com/wiki/Secret_council"
+  },
+  {
+    "keyword": "Celebration",
+    "category": "ability_word",
+    "definition": "Celebration is an ability word introduced in Wilds of Eldraine.",
+    "url": "https://mtg.fandom.com/wiki/Celebration"
+  },
+  {
+    "keyword": "Paradox",
+    "category": "ability_word",
+    "definition": "Paradox is an ability word introduced in the Universes Beyond set Doctor Who.",
+    "url": "https://mtg.fandom.com/wiki/Paradox"
+  },
+  {
+    "keyword": "Will of the Planeswalkers",
+    "category": "ability_word",
+    "definition": "Will of the Planeswalkers is an ability word found in the March of the Machine Commander decks. Similar to Will of the council, it calls for all players to vote on an effect. The mechanic is connected with the Planechase cards and rule set.",
+    "url": "https://mtg.fandom.com/wiki/Will_of_the_Planeswalkers"
+  },
+  {
+    "keyword": "Survival",
+    "category": "ability_word",
+    "definition": "Survival is an ability word introduced in Duskmourn: House of Horror, where it is connected to the the plane's various survivors and to the Survivor creature type.",
+    "url": "https://mtg.fandom.com/wiki/Survival"
+  },
+  {
+    "keyword": "Valiant",
+    "category": "ability_word",
+    "definition": "Valiant is an ability word introduced in Bloomburrow.",
+    "url": "https://mtg.fandom.com/wiki/Valiant"
+  },
+  {
+    "keyword": "Start your engines!",
+    "category": "ability_word",
+    "definition": "Start your engines! is a keyword ability introduced in Aetherdrift. It is associated with speed.",
+    "url": "https://mtg.fandom.com/wiki/Start_your_engines!"
+  }
+]
