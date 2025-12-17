@@ -59,17 +59,22 @@ class KeywordCubit extends Cubit<KeywordState> {
   }
 
   void getKeywords({String searchedText = ""}) {
-    List<Keyword> keywords = [];
+    List<(Keyword, double proximity)> keywords = [];
 
     for (var keyword in state.allKeywords) {
-      if (searchedText.isEmpty || keyword.contains(searchedText)) {
-        keywords.add(keyword);
+      var result = keyword.contains(searchedText);
+      if (searchedText.isEmpty || result.$1) {
+        keywords.add((keyword, result.$2));
       }
     }
 
+    keywords.sort((a, b) => b.$2.compareTo(a.$2));
+
+    var keywordsOrdened = keywords.map((item) => item.$1).toList();
+
     emit(
       state.copyWith(
-        filteredKeywords: keywords,
+        filteredKeywords: keywordsOrdened,
       ),
     );
   }

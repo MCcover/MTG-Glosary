@@ -43,19 +43,25 @@ class KeywordInfo extends StatelessWidget {
               "📖 Definition: ${keyword.definition}",
               style: const TextStyle(fontSize: 16),
             ),
-            const SizedBox(height: 8),
-            GestureDetector(
-              onTap: () => _launchUrl(keyword.url),
-              child: const Text(
-                '🔗 More Info',
-                style: TextStyle(
-                  fontSize: 16,
-                  color: Colors.blue,
-                  decoration: TextDecoration.underline,
-                ),
-              ),
-            ),
-            const SizedBox(height: 8),
+            keyword.url.isNotEmpty
+                ? Column(
+                    children: [
+                      const SizedBox(height: 8),
+                      GestureDetector(
+                        onTap: () => _launchUrl(keyword.url),
+                        child: const Text(
+                          '🔗 More Info',
+                          style: TextStyle(
+                            fontSize: 16,
+                            color: Colors.blue,
+                            decoration: TextDecoration.underline,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                    ],
+                  )
+                : const SizedBox.shrink(),
           ],
         ),
       ),

@@ -18,19 +18,22 @@ class Keyword {
     );
   }
 
-  bool contains(String searchedText) {
+  (bool contains, double proximity) contains(String searchedText) {
     String fullText = [type, keyword, definition, url].join(" ").toLowerCase();
 
     var text = searchedText.toLowerCase();
 
     List<String> words = fullText.split(RegExp(r'\s+'));
 
+    var x = 0;
+
     for (String word in words) {
-      if (word.contains(text) || text.similarityTo(word) >= 0.6) {
-        return true;
+      var similarity = text.similarityTo(word);
+      if (word.contains(text) || similarity >= 0.6) {
+        return (true, similarity);
       }
     }
 
-    return false; // Ninguna palabra alcanzó el umbral
+    return (false, 0); // Ninguna palabra alcanzó el umbral
   }
 }
