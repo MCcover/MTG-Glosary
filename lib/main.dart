@@ -23,7 +23,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       theme: AppTheme().getTheme(),
       routerConfig: appRouter,
       scrollBehavior: CustomScrollBehavior(),
