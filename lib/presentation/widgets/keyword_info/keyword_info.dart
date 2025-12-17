@@ -36,7 +36,10 @@ class KeywordInfo extends StatelessWidget {
             const Divider(),
             Text(
               keyword.keyword,
-              style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: colors.primary),
+              style: TextStyle(
+                  fontSize: 22,
+                  fontWeight: FontWeight.bold,
+                  color: colors.primary),
             ),
             const SizedBox(height: 8),
             Text(

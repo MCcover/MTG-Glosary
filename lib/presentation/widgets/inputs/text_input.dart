@@ -41,7 +41,8 @@ class TextInput extends StatelessWidget {
       obscureText: isPassword,
       decoration: InputDecoration(
         enabledBorder: border,
-        focusedBorder: border.copyWith(borderSide: BorderSide(color: colors.primary)),
+        focusedBorder:
+            border.copyWith(borderSide: BorderSide(color: colors.primary)),
         isDense: true,
         label: label != null ? Text(label!) : null,
         hintText: hintText,

@@ -6,7 +6,11 @@ class Keyword {
   final String definition;
   final String url;
 
-  Keyword({required this.type, required this.keyword, required this.definition, required this.url});
+  Keyword(
+      {required this.type,
+      required this.keyword,
+      required this.definition,
+      required this.url});
 
   // Método para convertir un JSON a una instancia de Keyword
   factory Keyword.fromJson(Map<String, dynamic> json) {

@@ -30,5 +30,6 @@ class KeywordState extends Equatable {
   }
 
   @override
-  List<Object?> get props => [allKeywords, filteredKeywords, status, errorMessage];
+  List<Object?> get props =>
+      [allKeywords, filteredKeywords, status, errorMessage];
 }

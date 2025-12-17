@@ -38,7 +38,8 @@ class KeywordCubit extends Cubit<KeywordState> {
   }
 
   Future<void> getAllKeywords() async {
-    final String response = await rootBundle.loadString('assets/jsons/keywords.json');
+    final String response =
+        await rootBundle.loadString('assets/jsons/keywords.json');
     final List<dynamic> jsonData = jsonDecode(response);
 
     List<Keyword> keywords = [];

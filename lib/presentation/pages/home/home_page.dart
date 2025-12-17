@@ -78,7 +78,8 @@ class _HomeViewState extends State<_HomeView> {
             onChanged: _onSearchChanged, // Conectar con debounce
           ),
           const SizedBox(height: 10),
-          (keywordsCubit.state.status == KeywordStatus.initial || keywordsCubit.state.status == KeywordStatus.loading)
+          (keywordsCubit.state.status == KeywordStatus.initial ||
+                  keywordsCubit.state.status == KeywordStatus.loading)
               ? const Expanded(
                   child: Center(
                     child: SizedBox(
@@ -112,7 +113,9 @@ class _HomeViewState extends State<_HomeView> {
               icon: Icons.auto_awesome_mosaic_outlined,
             )
           : Column(
-              children: state.filteredKeywords.map((item) => KeywordInfo(keyword: item)).toList(),
+              children: state.filteredKeywords
+                  .map((item) => KeywordInfo(keyword: item))
+                  .toList(),
             );
     }
   }
