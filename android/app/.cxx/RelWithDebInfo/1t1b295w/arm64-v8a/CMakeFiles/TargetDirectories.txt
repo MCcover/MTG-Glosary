@@ -1,0 +1,2 @@
+C:/FUENTES/Personales/MTG-Glosary/android/app/.cxx/RelWithDebInfo/1t1b295w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/FUENTES/Personales/MTG-Glosary/android/app/.cxx/RelWithDebInfo/1t1b295w/arm64-v8a/CMakeFiles/rebuild_cache.dir
