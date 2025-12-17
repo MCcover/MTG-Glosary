@@ -25,8 +25,6 @@ class Keyword {
 
     List<String> words = fullText.split(RegExp(r'\s+'));
 
-    var x = 0;
-
     for (String word in words) {
       var similarity = text.similarityTo(word);
       if (word.contains(text) || similarity >= 0.6) {
